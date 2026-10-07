@@ -1,0 +1,44 @@
+{"q": "Xin chào, bạn giúp được gì?", "route": ["chitchat"], "in_scope": true}
+{"q": "Thanks!", "route": ["chitchat"], "in_scope": true}
+{"q": "Serum Guava giá bao nhiêu?", "route": ["product_catalog"], "in_scope": true}
+{"q": "Which products contain AHA?", "route": ["product_catalog"], "in_scope": true}
+{"q": "Dòng Plum có mấy sản phẩm?", "route": ["product_catalog"], "in_scope": true}
+{"q": "kcn dua hau dung tich bn ml", "route": ["product_catalog"], "in_scope": true}
+{"q": "Is there a mini version of the Dew Drops?", "route": ["product_catalog"], "in_scope": true}
+{"q": "Khách hàng chê gì ở sữa rửa mặt Blueberry?", "route": ["customer_insight", "review_evidence"], "in_scope": true}
+{"q": "How do oily-skin customers rate the toner?", "route": ["customer_insight"], "in_scope": true}
+{"q": "Sản phẩm nào được đánh giá cao nhất?", "route": ["customer_insight", "product_catalog"], "in_scope": true}
+{"q": "Is the Pink Juice moisturizer rating getting worse over time?", "route": ["customer_insight"], "in_scope": true}
+{"q": "Cho tôi 3 câu review chê kem chống nắng bị vón", "route": ["review_evidence"], "in_scope": true}
+{"q": "Show me reviews saying the Avocado serum calmed redness", "route": ["review_evidence"], "in_scope": true}
+{"q": "Có được nói serum dâu trị mụn không?", "route": ["compliance"], "in_scope": true}
+{"q": "Can we call the Guava serum a skin whitening product?", "route": ["compliance"], "in_scope": true}
+{"q": "co dc ghi dermatologist recommended ko", "route": ["compliance"], "in_scope": true}
+{"q": "What does FDA require on AHA product labels?", "route": ["compliance"], "in_scope": true}
+{"q": "KOL nhận quà tặng có cần ghi #ad không?", "route": ["compliance", "sop_policy"], "in_scope": true}
+{"q": "Khách mua bao lâu thì không được trả hàng nữa?", "route": ["sop_policy"], "in_scope": true}
+{"q": "Do we ship to Canada?", "route": ["sop_policy"], "in_scope": true}
+{"q": "Khách báo bị nổi mẩn đỏ sau khi dùng serum thì CSKH làm gì?", "route": ["sop_policy"], "in_scope": true}
+{"q": "How long does ad approval take before launch?", "route": ["sop_policy"], "in_scope": true}
+{"q": "Which ad test won for the Plum moisturizer?", "route": ["creative"], "in_scope": true}
+{"q": "Nên test quảng cáo gì tiếp theo?", "route": ["creative"], "in_scope": true}
+{"q": "Why was the waterproof sunscreen ad pulled?", "route": ["creative", "compliance"], "in_scope": true}
+{"q": "Giọng văn thương hiệu như thế nào?", "route": ["brand"], "in_scope": true}
+{"q": "What emojis can we use in captions?", "route": ["brand"], "in_scope": true}
+{"q": "Glow Recipe có cam kết vegan không?", "route": ["brand"], "in_scope": true}
+{"q": "Viết creative brief cho serum Guava", "route": ["generation"], "in_scope": true}
+{"q": "Write an Instagram caption for the Watermelon sunscreen", "route": ["generation"], "in_scope": true}
+{"q": "Soạn câu trả lời cho review 1 sao chê toner gây rát", "route": ["generation", "sop_policy"], "in_scope": true}
+{"q": "Tóm tắt insight khách hàng của dòng Avocado", "route": ["generation", "customer_insight"], "in_scope": true}
+{"q": "Thời tiết Hà Nội ngày mai thế nào?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Who is the CEO of Sephora?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Viết hàm Python sắp xếp danh sách", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Glow Lip Pop giá bao nhiêu?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "What's inside the Fruit Babies kit?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Má hồng Rare Beauty có tốt không?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Tôi bị mụn trứng cá nên uống thuốc gì?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Recommend a good restaurant in Hanoi", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Doanh thu năm 2024 của công ty là bao nhiêu?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "How do I reset my email password?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Giá bitcoin hôm nay?", "route": ["out_of_scope"], "in_scope": false}
+{"q": "Does The Ordinary niacinamide serum cause breakouts?", "route": ["out_of_scope"], "in_scope": false}

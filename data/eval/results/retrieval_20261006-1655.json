@@ -1,0 +1,66 @@
+{
+  "rows": [
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8527777777777777,
+      "ms": 163.04829120635986
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "hit@5": 0.9,
+      "mrr": 0.8314814814814814,
+      "ms": 57.80755678812663
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "hit@5": 0.8666666666666667,
+      "mrr": 0.5944444444444444,
+      "ms": 60.15819708506266
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank",
+      "variant": "en",
+      "hit@5": 1.0,
+      "mrr": 0.9027777777777778,
+      "ms": 8870.867482821148
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank",
+      "variant": "vi",
+      "hit@5": 1.0,
+      "mrr": 0.85,
+      "ms": 9602.819236119589
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank",
+      "variant": "vi_noacc",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.6972222222222223,
+      "ms": 9269.236326217651
+    }
+  ],
+  "misses": [
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank",
+      "variant": "vi_noacc",
+      "id": "R29",
+      "query": "Quang cao nao bi go vi vi pham compliance?",
+      "got": [
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#overview",
+        "sop/ad-claim-review#ai-generated-copy"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,870 @@
+{
+  "rows": [
+    {
+      "model": "bge-small-en",
+      "config": "dense",
+      "variant": "en",
+      "hit@5": 1.0,
+      "mrr": 0.89,
+      "ms": 18.99146238962809
+    },
+    {
+      "model": "bge-small-en",
+      "config": "dense",
+      "variant": "vi",
+      "hit@5": 0.26666666666666666,
+      "mrr": 0.12281746031746031,
+      "ms": 10.978309313456219
+    },
+    {
+      "model": "bge-small-en",
+      "config": "dense",
+      "variant": "vi_noacc",
+      "hit@5": 0.2,
+      "mrr": 0.10767195767195767,
+      "ms": 10.92964808146159
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8566666666666667,
+      "ms": 51.425957679748535
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid",
+      "variant": "vi",
+      "hit@5": 0.26666666666666666,
+      "mrr": 0.15115079365079367,
+      "ms": 11.063400904337566
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid",
+      "variant": "vi_noacc",
+      "hit@5": 0.26666666666666666,
+      "mrr": 0.14596560846560847,
+      "ms": 11.020978291829428
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8566666666666667,
+      "ms": 10.68565050760905
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "hit@5": 0.7,
+      "mrr": 0.4823015873015873,
+      "ms": 12.297479311625164
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "hit@5": 0.7333333333333333,
+      "mrr": 0.47595238095238096,
+      "ms": 11.494525273640951
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "dense",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.9111111111111111,
+      "ms": 123.65715503692627
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "dense",
+      "variant": "vi",
+      "hit@5": 0.9,
+      "mrr": 0.8125,
+      "ms": 61.80239518483479
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "dense",
+      "variant": "vi_noacc",
+      "hit@5": 0.3,
+      "mrr": 0.19666666666666668,
+      "ms": 71.48212591807048
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8527777777777777,
+      "ms": 66.10473791758218
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid",
+      "variant": "vi",
+      "hit@5": 0.8666666666666667,
+      "mrr": 0.724537037037037,
+      "ms": 65.76592922210693
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid",
+      "variant": "vi_noacc",
+      "hit@5": 0.36666666666666664,
+      "mrr": 0.24888888888888888,
+      "ms": 71.07604344685872
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8527777777777777,
+      "ms": 67.89147853851318
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "hit@5": 0.9,
+      "mrr": 0.8208333333333333,
+      "ms": 66.43045743306477
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "hit@5": 0.8666666666666667,
+      "mrr": 0.5616666666666668,
+      "ms": 71.03181680043538
+    },
+    {
+      "model": "minilm-multi",
+      "config": "dense",
+      "variant": "en",
+      "hit@5": 0.8333333333333334,
+      "mrr": 0.7326322751322751,
+      "ms": 36.560376485188804
+    },
+    {
+      "model": "minilm-multi",
+      "config": "dense",
+      "variant": "vi",
+      "hit@5": 0.7,
+      "mrr": 0.5703703703703703,
+      "ms": 9.486897786458334
+    },
+    {
+      "model": "minilm-multi",
+      "config": "dense",
+      "variant": "vi_noacc",
+      "hit@5": 0.23333333333333334,
+      "mrr": 0.1537037037037037,
+      "ms": 10.413606961568197
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid",
+      "variant": "en",
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.8158730158730159,
+      "ms": 9.807896614074707
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid",
+      "variant": "vi",
+      "hit@5": 0.7,
+      "mrr": 0.5310185185185186,
+      "ms": 10.025803248087566
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid",
+      "variant": "vi_noacc",
+      "hit@5": 0.3333333333333333,
+      "mrr": 0.18944444444444444,
+      "ms": 10.36663850148519
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8142063492063493,
+      "ms": 11.196764310201008
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "hit@5": 0.9,
+      "mrr": 0.6761507936507936,
+      "ms": 11.124300956726074
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "hit@5": 0.8,
+      "mrr": 0.5375396825396825,
+      "ms": 11.087258656819662
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "dense",
+      "variant": "en",
+      "hit@5": 0.7666666666666667,
+      "mrr": 0.6121296296296296,
+      "ms": 86.53924465179443
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "dense",
+      "variant": "vi",
+      "hit@5": 0.7333333333333333,
+      "mrr": 0.5055555555555555,
+      "ms": 26.068735122680664
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "dense",
+      "variant": "vi_noacc",
+      "hit@5": 0.2,
+      "mrr": 0.15716931216931218,
+      "ms": 26.12560590108236
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid",
+      "variant": "en",
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.6989285714285713,
+      "ms": 23.871374130249023
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid",
+      "variant": "vi",
+      "hit@5": 0.7,
+      "mrr": 0.4655952380952381,
+      "ms": 22.457464536031086
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid",
+      "variant": "vi_noacc",
+      "hit@5": 0.36666666666666664,
+      "mrr": 0.17555555555555555,
+      "ms": 23.880362510681152
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.7155952380952381,
+      "ms": 23.521137237548828
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "hit@5": 0.8333333333333334,
+      "mrr": 0.555873015873016,
+      "ms": 22.597901026407875
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "hit@5": 0.8333333333333334,
+      "mrr": 0.5350925925925926,
+      "ms": 23.751799265543617
+    }
+  ],
+  "misses": [
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "id": "R27",
+      "query": "Is there a cleansing balm to remove makeup?",
+      "got": [
+        "research/insights-P460516#evidence-by-theme-1",
+        "research/insights-P460516#evidence-by-theme-2",
+        "research/insights-line-papaya#products-in-this-line"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R04",
+      "query": "Quảng cáo có được ghi đã được chứng minh lâm sàng không?",
+      "got": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "creative/learnings-2023#ct-05",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R14",
+      "query": "Trả lời review phàn nàn sản phẩm bị vón như thế nào?",
+      "got": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "creative/learnings-2023#ct-05"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R20",
+      "query": "Khách hàng phàn nàn gì về kem chống nắng SPF 50?",
+      "got": [
+        "creative/learnings-2023#ct-03",
+        "creative/learnings-2023#ct-04",
+        "product/P481989#overview"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R21",
+      "query": "Serum dâu có gây nổi mụn không?",
+      "got": [
+        "product/P482535#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "creative/learnings-2023#ct-06"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R22",
+      "query": "Sản phẩm nào bị đánh giá thấp nhất?",
+      "got": [
+        "sop/ad-claim-review#self-check-checklist",
+        "research/insights-overview#by-year",
+        "research/insights-P436359#by-year"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R23",
+      "query": "Người da dầu đánh giá kem dưỡng Watermelon Pink Juice thế nào?",
+      "got": [
+        "product/P435386#overview",
+        "product/P428819#overview",
+        "research/insights-P428819#overview"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R24",
+      "query": "Khách hàng nói gì về mùi hương của sữa rửa mặt Blueberry?",
+      "got": [
+        "product/P436359#overview",
+        "product/P436359#ingredients",
+        "product/P441323#overview"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R27",
+      "query": "Có sản phẩm sáp tẩy trang không?",
+      "got": [
+        "research/insights-P460516#evidence-by-theme-1",
+        "creative/learnings-2023#ct-05",
+        "research/insights-line-papaya#products-in-this-line"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R28",
+      "query": "Mẫu quảng cáo nào hiệu quả nhất cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#by-year",
+        "research/insights-P466123#overview",
+        "creative/learnings-2023#ct-02"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R04",
+      "query": "Quang cao co duoc ghi da duoc chung minh lam sang khong?",
+      "got": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "creative/learnings-2023#ct-05",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R14",
+      "query": "Tra loi review phan nan san pham bi von nhu the nao?",
+      "got": [
+        "research/insights-P458219#evidence-by-theme-2",
+        "creative/learnings-2023#ct-05",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R21",
+      "query": "Serum dau co gay noi mun khong?",
+      "got": [
+        "product/P482535#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "creative/learnings-2023#ct-06"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R22",
+      "query": "San pham nao bi danh gia thap nhat?",
+      "got": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "research/insights-overview#by-year",
+        "research/insights-P436359#by-year"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R23",
+      "query": "Nguoi da dau danh gia kem duong Watermelon Pink Juice the nao?",
+      "got": [
+        "research/insights-P428819#overview",
+        "product/P428819#overview",
+        "product/P435386#overview"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R24",
+      "query": "Khach hang noi gi ve mui huong cua sua rua mat Blueberry?",
+      "got": [
+        "product/P436359#overview",
+        "product/P436359#ingredients",
+        "product/P441323#overview"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R27",
+      "query": "Co san pham sap tay trang khong?",
+      "got": [
+        "creative/learnings-2023#ct-05",
+        "research/insights-P460516#evidence-by-theme-1",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "model": "bge-small-en",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R28",
+      "query": "Mau quang cao nao hieu qua nhat cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#by-year",
+        "research/insights-P466123#overview",
+        "creative/learnings-2023#ct-02"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "id": "R21",
+      "query": "Does the strawberry serum cause breakouts?",
+      "got": [
+        "research/insights-line-strawberry#evidence-by-theme-1",
+        "creative/learnings-2023#ct-06",
+        "brand/claims-policy#cp-02"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R21",
+      "query": "Serum dâu có gây nổi mụn không?",
+      "got": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "product/P482535#overview",
+        "brand/claims-policy#cp-02"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R22",
+      "query": "Sản phẩm nào bị đánh giá thấp nhất?",
+      "got": [
+        "research/insights-line-strawberry#themes",
+        "research/insights-overview#by-year",
+        "research/insights-P436359#by-year"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R23",
+      "query": "Người da dầu đánh giá kem dưỡng Watermelon Pink Juice thế nào?",
+      "got": [
+        "product/P428819#overview",
+        "research/insights-P428819#evidence-by-theme",
+        "brand/voice-guide#talking-about-scent"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R21",
+      "query": "Serum dau co gay noi mun khong?",
+      "got": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "creative/learnings-2023#ct-06",
+        "product/P482535#overview"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R22",
+      "query": "San pham nao bi danh gia thap nhat?",
+      "got": [
+        "research/insights-overview#by-year",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "research/insights-P436359#by-year"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R23",
+      "query": "Nguoi da dau danh gia kem duong Watermelon Pink Juice the nao?",
+      "got": [
+        "product/P428819#overview",
+        "product/P435386#overview",
+        "brand/voice-guide#talking-about-scent"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R27",
+      "query": "Co san pham sap tay trang khong?",
+      "got": [
+        "sop/ad-claim-review#self-check-checklist",
+        "research/insights-P460516#evidence-by-theme-1",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "id": "R27",
+      "query": "Is there a cleansing balm to remove makeup?",
+      "got": [
+        "research/insights-P460516#evidence-by-theme-1",
+        "research/insights-P460516#evidence-by-theme-2",
+        "research/insights-P460516#by-skin-type"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R22",
+      "query": "Sản phẩm nào bị đánh giá thấp nhất?",
+      "got": [
+        "research/insights-overview#by-year",
+        "research/insights-P504325#overview",
+        "research/insights-line-papaya#overview"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R23",
+      "query": "Người da dầu đánh giá kem dưỡng Watermelon Pink Juice thế nào?",
+      "got": [
+        "research/insights-P428819#overview",
+        "product/P428819#overview",
+        "brand/voice-guide#talking-about-scent"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R28",
+      "query": "Mẫu quảng cáo nào hiệu quả nhất cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#by-year",
+        "research/insights-P466123#themes",
+        "research/insights-P466123#overview"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R04",
+      "query": "Quang cao co duoc ghi da duoc chung minh lam sang khong?",
+      "got": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "brand/voice-guide#vocabulary",
+        "brand/voice-guide#four-voice-pillars"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R21",
+      "query": "Serum dau co gay noi mun khong?",
+      "got": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "product/P482535#overview",
+        "research/insights-line-papaya#evidence-by-theme-1"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R22",
+      "query": "San pham nao bi danh gia thap nhat?",
+      "got": [
+        "brand/voice-guide#four-voice-pillars",
+        "research/insights-overview#by-year",
+        "research/insights-line-guava#evidence-by-theme-1"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R23",
+      "query": "Nguoi da dau danh gia kem duong Watermelon Pink Juice the nao?",
+      "got": [
+        "product/P458219#ingredients",
+        "brand/voice-guide#talking-about-scent",
+        "research/insights-line-guava#evidence-by-theme-1"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R27",
+      "query": "Co san pham sap tay trang khong?",
+      "got": [
+        "research/insights-P460516#evidence-by-theme-1",
+        "research/insights-line-plum#evidence-by-theme-1",
+        "research/insights-line-papaya#products-in-this-line"
+      ]
+    },
+    {
+      "model": "minilm-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R28",
+      "query": "Mau quang cao nao hieu qua nhat cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#by-year",
+        "research/insights-P466123#overview",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "id": "R25",
+      "query": "Which products contain retinol?",
+      "got": [
+        "brand/claims-policy#cp-08",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i",
+        "research/insights-P447791#by-skin-type"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "en",
+      "id": "R27",
+      "query": "Is there a cleansing balm to remove makeup?",
+      "got": [
+        "research/insights-P460516#by-skin-type",
+        "research/insights-P460516#overview",
+        "research/insights-P460516#evidence-by-theme-1"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R21",
+      "query": "Serum dâu có gây nổi mụn không?",
+      "got": [
+        "research/insights-P470529#evidence-by-theme-2",
+        "research/insights-P475543#evidence-by-theme-1",
+        "product/P482535#overview"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R22",
+      "query": "Sản phẩm nào bị đánh giá thấp nhất?",
+      "got": [
+        "research/insights-overview#by-year",
+        "research/insights-line-kits#overview",
+        "research/insights-line-plum#overview"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R24",
+      "query": "Khách hàng nói gì về mùi hương của sữa rửa mặt Blueberry?",
+      "got": [
+        "research/insights-line-blueberry#products-in-this-line",
+        "research/insights-P504171#evidence-by-theme-2",
+        "product/P436359#ingredients"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R27",
+      "query": "Có sản phẩm sáp tẩy trang không?",
+      "got": [
+        "research/insights-P460516#by-skin-type",
+        "research/insights-line-papaya#products-in-this-line",
+        "research/insights-P460516#evidence-by-theme-1"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi",
+      "id": "R28",
+      "query": "Mẫu quảng cáo nào hiệu quả nhất cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#overview",
+        "research/insights-P466123#by-year",
+        "sop/review-response#usage-tips-by-complaint-theme"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R04",
+      "query": "Quang cao co duoc ghi da duoc chung minh lam sang khong?",
+      "got": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "research/insights-P504849#by-year",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R21",
+      "query": "Serum dau co gay noi mun khong?",
+      "got": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "product/P482535#overview",
+        "brand/claims-policy#cp-02"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R22",
+      "query": "San pham nao bi danh gia thap nhat?",
+      "got": [
+        "research/insights-overview#by-year",
+        "brand/voice-guide#voice-in-one-line",
+        "research/insights-line-papaya#overview"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R27",
+      "query": "Co san pham sap tay trang khong?",
+      "got": [
+        "research/insights-P458219#evidence-by-theme-2",
+        "research/insights-P460516#evidence-by-theme-1",
+        "research/insights-line-papaya#products-in-this-line"
+      ]
+    },
+    {
+      "model": "mpnet-multi",
+      "config": "hybrid+glossary",
+      "variant": "vi_noacc",
+      "id": "R28",
+      "query": "Mau quang cao nao hieu qua nhat cho Dew Drops?",
+      "got": [
+        "research/insights-P466123#by-year",
+        "sop/review-response#usage-tips-by-complaint-theme",
+        "research/insights-P466123#overview"
+      ]
+    }
+  ]
+}

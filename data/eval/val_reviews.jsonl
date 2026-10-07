@@ -1,0 +1,15 @@
+{"id": "RV01", "en": "pilling under makeup", "vi": "bị vón khi trang điểm", "filter": {"product_ids": "P481989", "rating_lte": 2}, "relevant": "pill|ball(s|ing)? up|flak|peel"}
+{"id": "RV02", "en": "leaves a white cast on darker skin", "vi": "để lại vệt trắng trên da ngăm", "filter": {"product_ids": "P481989"}, "relevant": "white cast|cast|ashy|gr[ae]y|whitish"}
+{"id": "RV03", "en": "it broke me out", "vi": "dùng xong bị nổi mụn", "filter": {"product_ids": "P482535"}, "relevant": "break ?out|broke|pimple|acne|purg|zit|bump"}
+{"id": "RV04", "en": "smells amazing", "vi": "mùi thơm rất dễ chịu", "filter": {"product_ids": "P428819", "rating_gte": 4}, "relevant": "smell|scent|fragran|aroma"}
+{"id": "RV05", "en": "feels too sticky", "vi": "cảm giác dính nhớp", "filter": {"product_ids": "P466123", "rating_lte": 2}, "relevant": "stick|tack|gummy|residue"}
+{"id": "RV06", "en": "burning sensation on my face", "vi": "bị rát, nóng mặt", "filter": {"product_ids": "P436359"}, "relevant": "burn|sting|tingl|irritat|hot"}
+{"id": "RV07", "en": "very hydrating and plumping", "vi": "cấp ẩm tốt, da căng mọng", "filter": {"product_ids": "P479327", "rating_gte": 4}, "relevant": "hydrat|plump|moistur|bouncy|dewy|juicy"}
+{"id": "RV08", "en": "removes makeup easily", "vi": "tẩy trang sạch dễ dàng", "filter": {"product_ids": "P460516"}, "relevant": "makeup|make up|mascara|remov|melt|sunscreen"}
+{"id": "RV09", "en": "my dark spots faded", "vi": "vết thâm mờ đi", "filter": {"product_ids": "P475543"}, "relevant": "spot|dark|hyperpig|scar|discolor|mark|fad"}
+{"id": "RV10", "en": "reduced fine lines under my eyes", "vi": "giảm nếp nhăn vùng mắt", "filter": {"product_ids": "P447791"}, "relevant": "line|wrinkle|crow|crease"}
+{"id": "RV11", "en": "my pores look smaller", "vi": "lỗ chân lông nhỏ lại", "filter": {"product_ids": "P458219", "rating_gte": 4}, "relevant": "pore"}
+{"id": "RV12", "en": "calmed my redness", "vi": "làm dịu da ửng đỏ", "filter": {"product_ids": "P470529"}, "relevant": "red|calm|sooth|rosacea|irritat"}
+{"id": "RV13", "en": "too expensive for such a small bottle", "vi": "quá đắt so với dung tích", "filter": {"product_ids": "P462699"}, "relevant": "price|expensive|pricey|worth|money|cost|\\$|small|tiny|size"}
+{"id": "RV14", "en": "great for my dry skin", "vi": "rất hợp với da khô của tôi", "filter": {"product_ids": "P466123", "skin_type": "dry"}, "relevant": "dry|hydrat|moistur|flak"}
+{"id": "RV15", "en": "stings my eyes", "vi": "bị cay mắt", "filter": {"product_ids": "P501760"}, "relevant": "sting|burn|irritat|water|tear|eyes? (were|was)? ?(red|itch)"}

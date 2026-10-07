@@ -1,0 +1,949 @@
+[
+  {
+    "doc_id": "brand/brand-overview",
+    "path": "brand/brand-overview.md",
+    "doc_type": "brand",
+    "source_type": "real",
+    "title": "Glow Recipe brand overview (public positioning)",
+    "source": "https://www.glowrecipe.com",
+    "related": [
+      "brand/voice-guide",
+      "brand/claims-policy",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "brand/claims-policy",
+    "path": "brand/claims-policy.md",
+    "doc_type": "brand_compliance",
+    "source_type": "synthetic",
+    "title": "Marketing claims policy (internal rulebook)",
+    "source": null,
+    "related": [
+      "compliance/fda-cosmetic-vs-drug",
+      "compliance/fda-aha-labeling",
+      "compliance/fda-sunscreen-labeling",
+      "compliance/ftc-health-claims",
+      "compliance/ftc-endorsement-guides",
+      "brand/voice-guide",
+      "sop/ad-claim-review"
+    ]
+  },
+  {
+    "doc_id": "brand/voice-guide",
+    "path": "brand/voice-guide.md",
+    "doc_type": "brand",
+    "source_type": "synthetic",
+    "title": "Brand voice & copy guide",
+    "source": null,
+    "related": [
+      "brand/brand-overview",
+      "brand/claims-policy",
+      "creative/learnings-2023",
+      "sop/influencer-brief"
+    ]
+  },
+  {
+    "doc_id": "catalog/overview",
+    "path": "catalog/catalog-overview.md",
+    "doc_type": "catalog",
+    "source_type": "derived",
+    "title": "Product catalog overview",
+    "source": null,
+    "related": [
+      "brand/brand-overview",
+      "research/insights-overview",
+      "policy/shipping",
+      "brand/claims-policy"
+    ]
+  },
+  {
+    "doc_id": "compliance/fda-aha-labeling",
+    "path": "compliance/fda-aha-labeling.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "FDA guidance: labeling for cosmetics containing alpha hydroxy acids (AHAs)",
+    "source": "https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-labeling-cosmetics-containing-alpha-hydroxy-acids",
+    "related": [
+      "brand/claims-policy",
+      "product/P501254",
+      "product/P501570",
+      "product/P436359",
+      "product/P441323",
+      "product/P482535"
+    ]
+  },
+  {
+    "doc_id": "compliance/fda-cosmetic-vs-drug",
+    "path": "compliance/fda-cosmetic-vs-drug.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "FDA: Is it a cosmetic, a drug, or both?",
+    "source": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/it-cosmetic-drug-or-both-or-it-soap",
+    "related": [
+      "brand/claims-policy",
+      "compliance/ftc-health-claims",
+      "sop/ad-claim-review"
+    ]
+  },
+  {
+    "doc_id": "compliance/fda-mocra-adverse-events",
+    "path": "compliance/fda-mocra-adverse-events.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "MoCRA: serious adverse event reporting for cosmetics",
+    "source": "https://www.fda.gov/cosmetics/cosmetics-laws-regulations/modernization-cosmetics-regulation-act-2022-mocra",
+    "related": [
+      "sop/adverse-event-escalation",
+      "sop/review-response"
+    ]
+  },
+  {
+    "doc_id": "compliance/fda-sunscreen-labeling",
+    "path": "compliance/fda-sunscreen-labeling.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "FDA: OTC sunscreen labeling rules (21 CFR 201.327)",
+    "source": "https://www.ecfr.gov/current/title-21/chapter-I/subchapter-C/part-201/subpart-G/section-201.327",
+    "related": [
+      "product/P481989",
+      "brand/claims-policy",
+      "compliance/fda-cosmetic-vs-drug"
+    ]
+  },
+  {
+    "doc_id": "compliance/ftc-endorsement-guides",
+    "path": "compliance/ftc-endorsement-guides.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "FTC Endorsement Guides: what people are asking",
+    "source": "https://www.ftc.gov/business-guidance/resources/ftcs-endorsement-guides-what-people-are-asking",
+    "related": [
+      "sop/influencer-brief",
+      "sop/review-response",
+      "brand/claims-policy"
+    ]
+  },
+  {
+    "doc_id": "compliance/ftc-health-claims",
+    "path": "compliance/ftc-health-claims.md",
+    "doc_type": "regulation",
+    "source_type": "real",
+    "title": "FTC Health Products Compliance Guidance",
+    "source": "https://www.ftc.gov/business-guidance/resources/health-products-compliance-guidance",
+    "related": [
+      "brand/claims-policy",
+      "compliance/ftc-endorsement-guides",
+      "sop/ad-claim-review"
+    ]
+  },
+  {
+    "doc_id": "creative/brief-template",
+    "path": "creative/brief-template.md",
+    "doc_type": "template",
+    "source_type": "synthetic",
+    "title": "Creative brief template",
+    "source": null,
+    "related": [
+      "sop/influencer-brief",
+      "brand/voice-guide",
+      "brand/claims-policy",
+      "creative/learnings-2023"
+    ]
+  },
+  {
+    "doc_id": "creative/learnings-2023",
+    "path": "creative/learnings-2023.md",
+    "doc_type": "creative_learnings",
+    "source_type": "synthetic",
+    "title": "Creative learnings, paid social (Q3 2022 to Q1 2023)",
+    "source": null,
+    "related": [
+      "research/insights-overview",
+      "research/insights-P466123",
+      "research/insights-P481989",
+      "research/insights-P479327",
+      "research/insights-P482535",
+      "research/insights-P458219",
+      "research/insights-P470529",
+      "brand/claims-policy",
+      "brand/voice-guide",
+      "creative/brief-template"
+    ]
+  },
+  {
+    "doc_id": "policy/returns",
+    "path": "policies/returns-policy.md",
+    "doc_type": "policy",
+    "source_type": "real",
+    "title": "Returns and refund policy (glowrecipe.com)",
+    "source": "https://www.glowrecipe.com/policies/refund-policy",
+    "related": [
+      "sop/review-response",
+      "sop/adverse-event-escalation",
+      "policy/shipping"
+    ]
+  },
+  {
+    "doc_id": "policy/shipping",
+    "path": "policies/shipping-policy.md",
+    "doc_type": "policy",
+    "source_type": "real",
+    "title": "Shipping policy (glowrecipe.com)",
+    "source": "https://www.glowrecipe.com/policies/shipping-policy",
+    "related": [
+      "policy/returns"
+    ]
+  },
+  {
+    "doc_id": "product/P428819",
+    "path": "products/P428819_watermelon-pink-juice-oil-free-moisturizer.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Pink Juice Oil-Free Moisturizer",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P428819",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P435386",
+    "path": "products/P435386_mini-watermelon-pink-juice-oil-free-moisturizer.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Watermelon Pink Juice Oil-Free Moisturizer",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P428819",
+      "product/P428819",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P436359",
+    "path": "products/P436359_blueberry-bounce-gentle-cleanser.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Blueberry Bounce Gentle Cleanser",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P436359",
+      "brand/claims-policy",
+      "research/insights-line-blueberry"
+    ]
+  },
+  {
+    "doc_id": "product/P441323",
+    "path": "products/P441323_mini-blueberry-bounce-gentle-cleanser.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Blueberry Bounce Gentle Cleanser",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P436359",
+      "product/P436359",
+      "brand/claims-policy",
+      "research/insights-line-blueberry"
+    ]
+  },
+  {
+    "doc_id": "product/P442744",
+    "path": "products/P442744_watermelon-glow-ultra-fine-mist.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow Ultra-Fine Mist",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P442744",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P447791",
+    "path": "products/P447791_avocado-fine-line-eye-cream-with-retinol.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Avocado Fine Line Eye Cream with Retinol",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P447791",
+      "brand/claims-policy",
+      "research/insights-line-avocado"
+    ]
+  },
+  {
+    "doc_id": "product/P458219",
+    "path": "products/P458219_watermelon-glow-pha-bha-pore-tight-toner.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow PHA + BHA Pore-Tight Toner",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P458219",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P460516",
+    "path": "products/P460516_papaya-sorbet-smoothing-enzyme-cleansing-balm-make.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P460516",
+      "brand/claims-policy",
+      "research/insights-line-papaya"
+    ]
+  },
+  {
+    "doc_id": "product/P462699",
+    "path": "products/P462699_plum-plump-hyaluronic-acid-serum.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Plum Plump Hyaluronic Acid Serum",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P462699",
+      "brand/claims-policy",
+      "research/insights-line-plum"
+    ]
+  },
+  {
+    "doc_id": "product/P466123",
+    "path": "products/P466123_watermelon-glow-niacinamide-dew-drops.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow Niacinamide Dew Drops",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P466123",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P467762",
+    "path": "products/P467762_mini-watermelon-glow-pha-bha-pore-tight-toner.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Watermelon Glow PHA + BHA Pore-Tight Toner",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P458219",
+      "product/P458219",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P469211",
+    "path": "products/P469211_watermelon-glow-aha-pink-dream-body-cream.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow AHA Pink Dream Body Cream",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P470529",
+    "path": "products/P470529_avocado-soothing-skin-barrier-serum-with-ceramides.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Avocado Soothing Skin Barrier Serum with Ceramides",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P470529",
+      "brand/claims-policy",
+      "research/insights-line-avocado"
+    ]
+  },
+  {
+    "doc_id": "product/P472468",
+    "path": "products/P472468_watermelon-glow-hyaluronic-clay-pore-tight-facial-.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow Hyaluronic Clay Pore-Tight Facial Mask",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P472468",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P475543",
+    "path": "products/P475543_guava-vitamin-c-dark-spot-treatment-serum.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Guava Vitamin C Dark Spot Treatment Serum",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P475543",
+      "brand/claims-policy",
+      "research/insights-line-guava"
+    ]
+  },
+  {
+    "doc_id": "product/P479327",
+    "path": "products/P479327_plum-plump-hyaluronic-acid-moisturizer.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Plum Plump Hyaluronic Acid Moisturizer",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P479327",
+      "brand/claims-policy",
+      "research/insights-line-plum"
+    ]
+  },
+  {
+    "doc_id": "product/P481989",
+    "path": "products/P481989_watermelon-glow-niacinamide-sunscreen-spf-50.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow Niacinamide Sunscreen SPF 50",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P481989",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P482535",
+    "path": "products/P482535_strawberry-smooth-bha-aha-salicylic-acid-serum.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Strawberry Smooth BHA + AHA Salicylic Acid Serum",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P482535",
+      "brand/claims-policy",
+      "research/insights-line-strawberry"
+    ]
+  },
+  {
+    "doc_id": "product/P500472",
+    "path": "products/P500472_mini-plum-plump-hyaluronic-acid-moisturizer.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Plum Plump Hyaluronic Acid Moisturizer",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P479327",
+      "product/P479327",
+      "brand/claims-policy",
+      "research/insights-line-plum"
+    ]
+  },
+  {
+    "doc_id": "product/P501254",
+    "path": "products/P501254_watermelon-glow-aha-night-treatment.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Watermelon Glow AHA Night Treatment",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P501254",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P501570",
+    "path": "products/P501570_mini-watermelon-glow-aha-night-treatment.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Watermelon Glow AHA Night Treatment",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P501254",
+      "product/P501254",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "product/P501760",
+    "path": "products/P501760_guava-vitamin-c-bright-eye-gel-cream.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Guava Vitamin C Bright-Eye Gel Cream",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P501760",
+      "brand/claims-policy",
+      "research/insights-line-guava"
+    ]
+  },
+  {
+    "doc_id": "product/P503634",
+    "path": "products/P503634_avocado-ceramide-moisture-barrier-cleanser.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Avocado Ceramide Moisture Barrier Cleanser",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P503634",
+      "brand/claims-policy",
+      "research/insights-line-avocado"
+    ]
+  },
+  {
+    "doc_id": "product/P504125",
+    "path": "products/P504125_strawberry-bha-pore-smooth-blur-drops.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Strawberry BHA Pore-Smooth Blur Drops",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P504125",
+      "brand/claims-policy",
+      "research/insights-line-strawberry"
+    ]
+  },
+  {
+    "doc_id": "product/P504636",
+    "path": "products/P504636_mini-watermelon-glow-niacinamide-dew-drops.md",
+    "doc_type": "product",
+    "source_type": "real",
+    "title": "Mini Watermelon Glow Niacinamide Dew Drops",
+    "source": "Sephora product catalog, https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": [
+      "research/insights-P466123",
+      "product/P466123",
+      "brand/claims-policy",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-avocado",
+    "path": "research/insights-line-avocado.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Avocado line",
+    "source": null,
+    "related": [
+      "research/insights-P447791",
+      "research/insights-P470529",
+      "research/insights-P503634",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-blueberry",
+    "path": "research/insights-line-blueberry.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Blueberry line",
+    "source": null,
+    "related": [
+      "research/insights-P436359",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-guava",
+    "path": "research/insights-line-guava.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Guava line",
+    "source": null,
+    "related": [
+      "research/insights-P475543",
+      "research/insights-P501760",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-papaya",
+    "path": "research/insights-line-papaya.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Papaya line",
+    "source": null,
+    "related": [
+      "research/insights-P460516",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-plum",
+    "path": "research/insights-line-plum.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Plum line",
+    "source": null,
+    "related": [
+      "research/insights-P462699",
+      "research/insights-P479327",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-strawberry",
+    "path": "research/insights-line-strawberry.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Strawberry line",
+    "source": null,
+    "related": [
+      "research/insights-P482535",
+      "research/insights-P504125",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-line-watermelon",
+    "path": "research/insights-line-watermelon.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon line",
+    "source": null,
+    "related": [
+      "research/insights-P428819",
+      "research/insights-P442744",
+      "research/insights-P458219",
+      "research/insights-P466123",
+      "research/insights-P472468",
+      "research/insights-P481989",
+      "research/insights-P501254",
+      "research/insights-overview",
+      "catalog/overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-overview",
+    "path": "research/insights-overview.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Glow Recipe brand overview",
+    "source": null,
+    "related": [
+      "research/insights-line-avocado",
+      "research/insights-line-blueberry",
+      "research/insights-line-guava",
+      "research/insights-line-papaya",
+      "research/insights-line-plum",
+      "research/insights-line-strawberry",
+      "research/insights-line-watermelon"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P428819",
+    "path": "research/insights-P428819.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Pink Juice Oil-Free Moisturizer",
+    "source": null,
+    "related": [
+      "product/P428819",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P436359",
+    "path": "research/insights-P436359.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Blueberry Bounce Gentle Cleanser",
+    "source": null,
+    "related": [
+      "product/P436359",
+      "research/insights-line-blueberry",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P442744",
+    "path": "research/insights-P442744.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow Ultra-Fine Mist",
+    "source": null,
+    "related": [
+      "product/P442744",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P447791",
+    "path": "research/insights-P447791.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Avocado Fine Line Eye Cream with Retinol",
+    "source": null,
+    "related": [
+      "product/P447791",
+      "research/insights-line-avocado",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P458219",
+    "path": "research/insights-P458219.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow PHA + BHA Pore-Tight Toner",
+    "source": null,
+    "related": [
+      "product/P458219",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P460516",
+    "path": "research/insights-P460516.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Papaya Sorbet Smoothing Enzyme Cleansing Balm & Makeup Remover",
+    "source": null,
+    "related": [
+      "product/P460516",
+      "research/insights-line-papaya",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P462699",
+    "path": "research/insights-P462699.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Plum Plump Hyaluronic Acid Serum",
+    "source": null,
+    "related": [
+      "product/P462699",
+      "research/insights-line-plum",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P466123",
+    "path": "research/insights-P466123.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow Niacinamide Dew Drops",
+    "source": null,
+    "related": [
+      "product/P466123",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P470529",
+    "path": "research/insights-P470529.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Avocado Soothing Skin Barrier Serum with Ceramides",
+    "source": null,
+    "related": [
+      "product/P470529",
+      "research/insights-line-avocado",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P472468",
+    "path": "research/insights-P472468.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow Hyaluronic Clay Pore-Tight Facial Mask",
+    "source": null,
+    "related": [
+      "product/P472468",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P475543",
+    "path": "research/insights-P475543.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Guava Vitamin C Dark Spot Treatment Serum",
+    "source": null,
+    "related": [
+      "product/P475543",
+      "research/insights-line-guava",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P479327",
+    "path": "research/insights-P479327.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Plum Plump Hyaluronic Acid Moisturizer",
+    "source": null,
+    "related": [
+      "product/P479327",
+      "research/insights-line-plum",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P481989",
+    "path": "research/insights-P481989.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow Niacinamide Sunscreen SPF 50",
+    "source": null,
+    "related": [
+      "product/P481989",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P482535",
+    "path": "research/insights-P482535.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Strawberry Smooth BHA + AHA Salicylic Acid Serum",
+    "source": null,
+    "related": [
+      "product/P482535",
+      "research/insights-line-strawberry",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P501254",
+    "path": "research/insights-P501254.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Watermelon Glow AHA Night Treatment",
+    "source": null,
+    "related": [
+      "product/P501254",
+      "research/insights-line-watermelon",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P501760",
+    "path": "research/insights-P501760.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Guava Vitamin C Bright-Eye Gel Cream",
+    "source": null,
+    "related": [
+      "product/P501760",
+      "research/insights-line-guava",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P503634",
+    "path": "research/insights-P503634.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Avocado Ceramide Moisture Barrier Cleanser",
+    "source": null,
+    "related": [
+      "product/P503634",
+      "research/insights-line-avocado",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "research/insights-P504125",
+    "path": "research/insights-P504125.md",
+    "doc_type": "customer_research",
+    "source_type": "derived",
+    "title": "Customer insights: Strawberry BHA Pore-Smooth Blur Drops",
+    "source": null,
+    "related": [
+      "product/P504125",
+      "research/insights-line-strawberry",
+      "research/insights-overview"
+    ]
+  },
+  {
+    "doc_id": "sop/ad-claim-review",
+    "path": "sop/ad-claim-review.md",
+    "doc_type": "sop",
+    "source_type": "synthetic",
+    "title": "SOP: Ad & copy claim review",
+    "source": null,
+    "related": [
+      "brand/claims-policy",
+      "brand/voice-guide",
+      "compliance/ftc-health-claims",
+      "compliance/fda-cosmetic-vs-drug",
+      "creative/learnings-2023"
+    ]
+  },
+  {
+    "doc_id": "sop/adverse-event-escalation",
+    "path": "sop/adverse-event-escalation.md",
+    "doc_type": "sop",
+    "source_type": "synthetic",
+    "title": "SOP: Adverse reaction escalation",
+    "source": null,
+    "related": [
+      "compliance/fda-mocra-adverse-events",
+      "sop/review-response",
+      "policy/returns"
+    ]
+  },
+  {
+    "doc_id": "sop/influencer-brief",
+    "path": "sop/influencer-brief.md",
+    "doc_type": "sop",
+    "source_type": "synthetic",
+    "title": "SOP: Writing an influencer / creator brief",
+    "source": null,
+    "related": [
+      "compliance/ftc-endorsement-guides",
+      "brand/claims-policy",
+      "brand/voice-guide",
+      "creative/brief-template",
+      "creative/learnings-2023"
+    ]
+  },
+  {
+    "doc_id": "sop/review-response",
+    "path": "sop/review-response.md",
+    "doc_type": "sop",
+    "source_type": "synthetic",
+    "title": "SOP: Responding to customer reviews & complaints",
+    "source": null,
+    "related": [
+      "compliance/ftc-endorsement-guides",
+      "sop/adverse-event-escalation",
+      "policy/returns",
+      "brand/voice-guide",
+      "brand/claims-policy"
+    ]
+  },
+  {
+    "doc_id": "reviews",
+    "path": "reviews.jsonl",
+    "doc_type": "review_collection",
+    "source_type": "real",
+    "title": "25211 Sephora customer reviews (one per line, id = review_id)",
+    "source": "https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews",
+    "related": []
+  }
+]

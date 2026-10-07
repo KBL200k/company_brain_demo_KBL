@@ -1,0 +1,12 @@
+[server]
+# API keys are typed into this UI: keep it on this machine only
+address = "127.0.0.1"
+port = 8501
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+base = "light"
+primaryColor = "#E8507A"

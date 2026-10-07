@@ -1,0 +1,66 @@
+{
+  "rows": [
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "en",
+      "hit@5": 1.0,
+      "mrr": 0.9083333333333333,
+      "ms": 4350.151832898458
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "vi",
+      "hit@5": 0.9666666666666667,
+      "mrr": 0.8694444444444444,
+      "ms": 4245.166977246602
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "vi_noacc",
+      "hit@5": 0.9333333333333333,
+      "mrr": 0.7,
+      "ms": 4213.39050134023
+    }
+  ],
+  "misses": [
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "vi",
+      "id": "R21",
+      "query": "Serum dâu có gây nổi mụn không?",
+      "got": [
+        "brand/claims-policy#cp-02",
+        "research/insights-line-strawberry#evidence-by-theme-1",
+        "product/P482535#overview"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "vi_noacc",
+      "id": "R21",
+      "query": "Serum dau co gay noi mun khong?",
+      "got": [
+        "brand/claims-policy#cp-02",
+        "creative/learnings-2023#ct-06",
+        "product/P482535#overview"
+      ]
+    },
+    {
+      "model": "e5-large-multi",
+      "config": "hybrid+glossary+rerank15",
+      "variant": "vi_noacc",
+      "id": "R27",
+      "query": "Co san pham sap tay trang khong?",
+      "got": [
+        "research/insights-line-papaya#evidence-by-theme-2",
+        "research/insights-P460516#evidence-by-theme-2",
+        "research/insights-P460516#evidence-by-theme-1"
+      ]
+    }
+  ]
+}

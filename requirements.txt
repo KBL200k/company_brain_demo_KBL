@@ -1,0 +1,10 @@
+pandas==3.0.6
+qdrant-client==1.19.1
+fastembed==0.8.1
+anthropic==1.11.0
+openai==3.26.0
+google-genai==2.28.0
+mcp==2.3.0
+python-dotenv==1.2.4
+openpyxl==3.1.5
+streamlit==1.65.0

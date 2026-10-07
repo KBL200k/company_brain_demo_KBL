@@ -1,0 +1,3240 @@
+{
+  "kb": [
+    {
+      "id": "V01",
+      "category": "product",
+      "variant": "en",
+      "query": "What is the price of the Avocado barrier serum?",
+      "rank": 1,
+      "top3": [
+        "product/P470529#overview",
+        "catalog/overview#avocado-line",
+        "research/insights-P470529#by-year"
+      ]
+    },
+    {
+      "id": "V01",
+      "category": "product",
+      "variant": "vi",
+      "query": "Serum Avocado phục hồi hàng rào da giá bao nhiêu?",
+      "rank": 1,
+      "top3": [
+        "product/P470529#overview",
+        "catalog/overview#avocado-line",
+        "policy/shipping#what-the-page-does-not-state"
+      ]
+    },
+    {
+      "id": "V01",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Serum Avocado phuc hoi hang rao da gia bao nhieu?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "product/P470529#overview",
+        "creative/learnings-2023#ct-09"
+      ]
+    },
+    {
+      "id": "V01",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "serum bo phuc hoi bn tien v",
+      "rank": 5,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "catalog/overview#strawberry-line",
+        "product/P482535#ingredients"
+      ]
+    },
+    {
+      "id": "V02",
+      "category": "product",
+      "variant": "en",
+      "query": "Does the Guava eye cream contain vitamin C?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#guava-line",
+        "product/P501760#overview",
+        "research/insights-line-guava#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V02",
+      "category": "product",
+      "variant": "vi",
+      "query": "Kem mắt Guava có vitamin C không?",
+      "rank": 2,
+      "top3": [
+        "research/insights-line-guava#products-in-this-line",
+        "product/P501760#overview",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V02",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Kem mat Guava co vitamin C khong?",
+      "rank": 1,
+      "top3": [
+        "product/P501760#overview",
+        "catalog/overview#guava-line",
+        "research/insights-line-guava#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V02",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "kem mat oi co vit C hok",
+      "rank": 1,
+      "top3": [
+        "product/P501760#overview",
+        "catalog/overview#guava-line",
+        "research/insights-line-guava#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V03",
+      "category": "product",
+      "variant": "en",
+      "query": "What size is the Watermelon Glow facial mist?",
+      "rank": 1,
+      "top3": [
+        "product/P442744#overview",
+        "catalog/overview#watermelon-line",
+        "product/P467762#overview"
+      ]
+    },
+    {
+      "id": "V03",
+      "category": "product",
+      "variant": "vi",
+      "query": "Xịt khoáng Watermelon Glow dung tích bao nhiêu?",
+      "rank": 1,
+      "top3": [
+        "product/P442744#overview",
+        "research/insights-line-watermelon#products-in-this-line",
+        "product/P467762#overview"
+      ]
+    },
+    {
+      "id": "V03",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Xit khoang Watermelon Glow dung tich bao nhieu?",
+      "rank": 2,
+      "top3": [
+        "research/insights-line-watermelon#products-in-this-line",
+        "product/P442744#overview",
+        "product/P467762#overview"
+      ]
+    },
+    {
+      "id": "V03",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "xit khoang dua hau bao nhieu ml",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#products-sold-in-more-than-one-size",
+        "product/P442744#overview",
+        "catalog/overview#watermelon-line"
+      ]
+    },
+    {
+      "id": "V04",
+      "category": "product",
+      "variant": "en",
+      "query": "Is the Plum Plump moisturizer available as a mini?",
+      "rank": 1,
+      "top3": [
+        "product/P500472#overview",
+        "catalog/overview#plum-line",
+        "product/P479327#overview"
+      ]
+    },
+    {
+      "id": "V04",
+      "category": "product",
+      "variant": "vi",
+      "query": "Kem dưỡng Plum Plump có bản mini không?",
+      "rank": 1,
+      "top3": [
+        "product/P500472#overview",
+        "research/insights-line-plum#products-in-this-line",
+        "catalog/overview#plum-line"
+      ]
+    },
+    {
+      "id": "V04",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Kem duong Plum Plump co ban mini khong?",
+      "rank": 1,
+      "top3": [
+        "product/P500472#overview",
+        "catalog/overview#plum-line",
+        "research/insights-line-plum#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V04",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "kem duong man co size mini ko",
+      "rank": 6,
+      "top3": [
+        "catalog/overview#products-sold-in-more-than-one-size",
+        "product/P441323#overview",
+        "catalog/overview#blueberry-line"
+      ]
+    },
+    {
+      "id": "V05",
+      "category": "product",
+      "variant": "en",
+      "query": "Which product is a sunscreen?",
+      "rank": 1,
+      "top3": [
+        "product/P481989#overview",
+        "brand/claims-policy#cp-05",
+        "compliance/fda-sunscreen-labeling#relevance"
+      ]
+    },
+    {
+      "id": "V05",
+      "category": "product",
+      "variant": "vi",
+      "query": "Sản phẩm nào là kem chống nắng?",
+      "rank": 1,
+      "top3": [
+        "product/P481989#overview",
+        "brand/claims-policy#cp-05",
+        "compliance/fda-sunscreen-labeling#relevance"
+      ]
+    },
+    {
+      "id": "V05",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "San pham nao la kem chong nang?",
+      "rank": 2,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "product/P481989#overview",
+        "compliance/fda-sunscreen-labeling#relevance"
+      ]
+    },
+    {
+      "id": "V05",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "co kem chong nang ko shop",
+      "rank": 1,
+      "top3": [
+        "product/P481989#overview",
+        "brand/claims-policy#cp-01",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V06",
+      "category": "product",
+      "variant": "en",
+      "query": "What does the Avocado cleanser contain?",
+      "rank": 1,
+      "top3": [
+        "product/P503634#overview",
+        "catalog/overview#avocado-line",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i"
+      ]
+    },
+    {
+      "id": "V06",
+      "category": "product",
+      "variant": "vi",
+      "query": "Sữa rửa mặt Avocado có thành phần gì?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "product/P503634#overview",
+        "catalog/overview#blueberry-line"
+      ]
+    },
+    {
+      "id": "V06",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Sua rua mat Avocado co thanh phan gi?",
+      "rank": 4,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "research/insights-line-avocado#evidence-by-theme-1",
+        "catalog/overview#blueberry-line"
+      ]
+    },
+    {
+      "id": "V06",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "srm bo thanh phan gi",
+      "rank": 5,
+      "top3": [
+        "brand/brand-overview#product-lines-from-the-catalog-in-this-knowledge-base",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "product/P447791#ingredients"
+      ]
+    },
+    {
+      "id": "V07",
+      "category": "product",
+      "variant": "en",
+      "query": "Is the Watermelon AHA Night Treatment a peel?",
+      "rank": 1,
+      "top3": [
+        "product/P501254#overview",
+        "product/P501570#overview",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V07",
+      "category": "product",
+      "variant": "vi",
+      "query": "Watermelon AHA Night Treatment có phải sản phẩm peel không?",
+      "rank": 1,
+      "top3": [
+        "product/P501254#overview",
+        "product/P501254#ingredients",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V07",
+      "category": "product",
+      "variant": "vi_noacc",
+      "query": "Watermelon AHA Night Treatment co phai san pham peel khong?",
+      "rank": 1,
+      "top3": [
+        "product/P501254#overview",
+        "product/P501570#overview",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V07",
+      "category": "product",
+      "variant": "vi_chat",
+      "query": "night treatment dua hau co phai peel ko",
+      "rank": 1,
+      "top3": [
+        "product/P501254#overview",
+        "research/insights-line-watermelon#products-in-this-line",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V08",
+      "category": "insight",
+      "variant": "en",
+      "query": "What do people like most about the Plum Plump serum?",
+      "rank": 3,
+      "top3": [
+        "product/P462699#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "research/insights-P462699#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V08",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Khách thích điều gì nhất ở serum Plum Plump?",
+      "rank": 6,
+      "top3": [
+        "research/insights-line-plum#evidence-by-theme-1",
+        "catalog/overview#plum-line",
+        "research/insights-line-plum#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V08",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Khach thich dieu gi nhat o serum Plum Plump?",
+      "rank": 6,
+      "top3": [
+        "product/P462699#overview",
+        "catalog/overview#plum-line",
+        "product/P462699#ingredients"
+      ]
+    },
+    {
+      "id": "V08",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "serum man dc khen gi nhieu nhat",
+      "rank": null,
+      "top3": [
+        "research/insights-P475543#themes",
+        "catalog/overview#strawberry-line",
+        "product/P479327#overview"
+      ]
+    },
+    {
+      "id": "V09",
+      "category": "insight",
+      "variant": "en",
+      "query": "Is the retinol eye cream irritating according to reviews?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P447791#evidence-by-theme-2",
+        "research/insights-P447791#how-to-read-this",
+        "brand/claims-policy#cp-08"
+      ]
+    },
+    {
+      "id": "V09",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Theo review, kem mắt retinol có gây kích ứng không?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P447791#how-to-read-this",
+        "research/insights-P501760#evidence-by-theme-2",
+        "product/P447791#overview"
+      ]
+    },
+    {
+      "id": "V09",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Theo review, kem mat retinol co gay kich ung khong?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P447791#how-to-read-this",
+        "research/insights-P501760#how-to-read-this",
+        "research/insights-P501760#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V09",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "kem mat retinol co bi kich ung ko",
+      "rank": 2,
+      "top3": [
+        "brand/claims-policy#cp-08",
+        "research/insights-P447791#how-to-read-this",
+        "research/insights-P501760#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V10",
+      "category": "insight",
+      "variant": "en",
+      "query": "How has the Blueberry cleanser rating changed over the years?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P436359#by-year",
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "research/insights-P436359#overview"
+      ]
+    },
+    {
+      "id": "V10",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Đánh giá sữa rửa mặt Blueberry thay đổi thế nào qua các năm?",
+      "rank": null,
+      "top3": [
+        "product/P436359#overview",
+        "research/insights-line-blueberry#products-in-this-line",
+        "catalog/overview#blueberry-line"
+      ]
+    },
+    {
+      "id": "V10",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Danh gia sua rua mat Blueberry thay doi the nao qua cac nam?",
+      "rank": null,
+      "top3": [
+        "research/insights-line-blueberry#products-in-this-line",
+        "research/insights-line-blueberry#themes",
+        "brand/claims-policy#cp-03"
+      ]
+    },
+    {
+      "id": "V10",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "srm viet quat rating qua tung nam sao roi",
+      "rank": 4,
+      "top3": [
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "research/insights-overview#by-year",
+        "brand/claims-policy#cp-03"
+      ]
+    },
+    {
+      "id": "V11",
+      "category": "insight",
+      "variant": "en",
+      "query": "Which skin type rates the Dew Drops the highest?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P466123#by-skin-type",
+        "research/insights-P504125#by-skin-type",
+        "research/insights-P466123#themes"
+      ]
+    },
+    {
+      "id": "V11",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Loại da nào chấm Dew Drops cao nhất?",
+      "rank": 4,
+      "top3": [
+        "research/insights-P466123#themes",
+        "brand/brand-overview#positioning",
+        "catalog/overview#products-by-price"
+      ]
+    },
+    {
+      "id": "V11",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Loai da nao cham Dew Drops cao nhat?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-01",
+        "brand/voice-guide#examples",
+        "brand/brand-overview#positioning"
+      ]
+    },
+    {
+      "id": "V11",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "da nao cham dew drops cao nhat",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-02",
+        "catalog/overview#products-by-price",
+        "brand/brand-overview#positioning"
+      ]
+    },
+    {
+      "id": "V12",
+      "category": "insight",
+      "variant": "en",
+      "query": "Do customers find the Watermelon Pink Juice moisturizer sticky?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P428819#evidence-by-theme",
+        "product/P428819#overview",
+        "research/insights-P428819#overview"
+      ]
+    },
+    {
+      "id": "V12",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Khách có thấy kem dưỡng Watermelon Pink Juice bị dính không?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#products-by-price",
+        "research/insights-P428819#evidence-by-theme",
+        "research/insights-P428819#overview"
+      ]
+    },
+    {
+      "id": "V12",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Khach co thay kem duong Watermelon Pink Juice bi dinh khong?",
+      "rank": 5,
+      "top3": [
+        "catalog/overview#products-by-price",
+        "product/P428819#overview",
+        "research/insights-line-guava#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V12",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "kem duong dua hau pink juice co bi dinh ko",
+      "rank": 1,
+      "top3": [
+        "research/insights-P428819#evidence-by-theme",
+        "sop/review-response#usage-tips-by-complaint-theme",
+        "catalog/overview#products-by-price"
+      ]
+    },
+    {
+      "id": "V13",
+      "category": "insight",
+      "variant": "en",
+      "query": "Which product line has the most reviews?",
+      "rank": 5,
+      "top3": [
+        "catalog/overview#catalog-summary",
+        "research/insights-line-strawberry#themes",
+        "catalog/overview#avocado-line"
+      ]
+    },
+    {
+      "id": "V13",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Dòng sản phẩm nào có nhiều review nhất?",
+      "rank": null,
+      "top3": [
+        "research/insights-line-strawberry#themes",
+        "compliance/ftc-endorsement-guides#reviews",
+        "research/insights-line-watermelon#themes"
+      ]
+    },
+    {
+      "id": "V13",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Dong san pham nao co nhieu review nhat?",
+      "rank": null,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/review-response#principles"
+      ]
+    },
+    {
+      "id": "V13",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "dong nao nhieu review nhat",
+      "rank": null,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading"
+      ]
+    },
+    {
+      "id": "V14",
+      "category": "insight",
+      "variant": "en",
+      "query": "What share of reviews came from people who got the product for free?",
+      "rank": null,
+      "top3": [
+        "research/insights-P428819#how-to-read-this",
+        "brand/voice-guide#talking-about-scent",
+        "research/insights-P504125#how-to-read-this"
+      ]
+    },
+    {
+      "id": "V14",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Bao nhiêu phần trăm review là từ người được tặng sản phẩm?",
+      "rank": null,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/influencer-brief#when-to-use",
+        "research/insights-line-strawberry#overview"
+      ]
+    },
+    {
+      "id": "V14",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Bao nhieu phan tram review la tu nguoi duoc tang san pham?",
+      "rank": null,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "sop/influencer-brief#when-to-use"
+      ]
+    },
+    {
+      "id": "V14",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "bao nhieu % review la do dc tang sp",
+      "rank": null,
+      "top3": [
+        "sop/ad-claim-review#self-check-checklist",
+        "sop/influencer-brief#when-to-use",
+        "compliance/ftc-endorsement-guides#reviews"
+      ]
+    },
+    {
+      "id": "V15",
+      "category": "insight",
+      "variant": "en",
+      "query": "How do customers rate the Papaya cleansing balm?",
+      "rank": 2,
+      "top3": [
+        "research/insights-line-papaya#products-in-this-line",
+        "research/insights-P460516#overview",
+        "research/insights-P460516#by-year"
+      ]
+    },
+    {
+      "id": "V15",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Sáp tẩy trang Papaya được đánh giá thế nào?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P460516#by-year",
+        "research/insights-line-papaya#products-in-this-line",
+        "product/P460516#ingredients"
+      ]
+    },
+    {
+      "id": "V15",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Sap tay trang Papaya duoc danh gia the nao?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#papaya-line",
+        "research/insights-P460516#by-year",
+        "product/P460516#ingredients"
+      ]
+    },
+    {
+      "id": "V15",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "sap tay trang du du review sao",
+      "rank": 9,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "catalog/overview#papaya-line",
+        "compliance/ftc-endorsement-guides#reviews"
+      ]
+    },
+    {
+      "id": "V16",
+      "category": "insight",
+      "variant": "en",
+      "query": "What do customers say about the Avocado line overall?",
+      "rank": 1,
+      "top3": [
+        "research/insights-line-avocado#overview",
+        "brand/claims-policy#cp-08",
+        "research/insights-line-avocado#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V16",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Nhìn chung khách nói gì về dòng Avocado?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "research/insights-line-avocado#themes",
+        "research/insights-line-avocado#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V16",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Nhin chung khach noi gi ve dong Avocado?",
+      "rank": 2,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "research/insights-line-avocado#evidence-by-theme-2",
+        "research/insights-line-avocado#products-in-this-line"
+      ]
+    },
+    {
+      "id": "V16",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "dong bo khach noi gi",
+      "rank": 4,
+      "top3": [
+        "creative/brief-template#overview",
+        "catalog/overview#avocado-line",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V17",
+      "category": "insight",
+      "variant": "en",
+      "query": "According to reviews, does the Guava serum help with dark spots?",
+      "rank": 2,
+      "top3": [
+        "product/P475543#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "research/insights-P475543#by-year"
+      ]
+    },
+    {
+      "id": "V17",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Theo review, serum Guava có giúp mờ thâm không?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "product/P475543#overview",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V17",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Theo review, serum Guava co giup mo tham khong?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P475543#evidence-by-theme-1",
+        "research/insights-P475543#evidence-by-theme-2",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V17",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "serum oi tri tham co hieu qua ko",
+      "rank": 4,
+      "top3": [
+        "catalog/overview#guava-line",
+        "research/insights-P504125#evidence-by-theme-1",
+        "creative/learnings-2023#ct-06"
+      ]
+    },
+    {
+      "id": "V18",
+      "category": "insight",
+      "variant": "en",
+      "query": "Is the Watermelon toner good for oily skin?",
+      "rank": 1,
+      "top3": [
+        "research/insights-P458219#evidence-by-theme-1",
+        "research/insights-P458219#by-skin-type",
+        "research/insights-line-watermelon#evidence-by-theme"
+      ]
+    },
+    {
+      "id": "V18",
+      "category": "insight",
+      "variant": "vi",
+      "query": "Toner Watermelon có hợp da dầu không?",
+      "rank": 2,
+      "top3": [
+        "product/P458219#overview",
+        "research/insights-P458219#evidence-by-theme-1",
+        "product/P467762#overview"
+      ]
+    },
+    {
+      "id": "V18",
+      "category": "insight",
+      "variant": "vi_noacc",
+      "query": "Toner Watermelon co hop da dau khong?",
+      "rank": 2,
+      "top3": [
+        "product/P458219#overview",
+        "research/insights-P458219#evidence-by-theme-1",
+        "product/P467762#overview"
+      ]
+    },
+    {
+      "id": "V18",
+      "category": "insight",
+      "variant": "vi_chat",
+      "query": "toner dua hau da dau xai dc ko",
+      "rank": 1,
+      "top3": [
+        "research/insights-P458219#evidence-by-theme-1",
+        "product/P458219#overview",
+        "creative/learnings-2023#ct-08"
+      ]
+    },
+    {
+      "id": "V19",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we say the Avocado serum repairs the skin barrier?",
+      "rank": 4,
+      "top3": [
+        "product/P470529#overview",
+        "brand/claims-policy#quick-lookup-by-product",
+        "research/insights-P470529#by-year"
+      ]
+    },
+    {
+      "id": "V19",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được nói serum Avocado phục hồi hàng rào bảo vệ da không?",
+      "rank": null,
+      "top3": [
+        "product/P470529#overview",
+        "catalog/overview#avocado-line",
+        "research/insights-P470529#themes"
+      ]
+    },
+    {
+      "id": "V19",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc noi serum Avocado phuc hoi hang rao bao ve da khong?",
+      "rank": null,
+      "top3": [
+        "product/P470529#overview",
+        "creative/learnings-2023#ct-09",
+        "catalog/overview#avocado-line"
+      ]
+    },
+    {
+      "id": "V19",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "dc ghi serum bo phuc hoi hang rao da ko",
+      "rank": null,
+      "top3": [
+        "catalog/overview#avocado-line",
+        "creative/learnings-2023#ct-06",
+        "catalog/overview#strawberry-line"
+      ]
+    },
+    {
+      "id": "V20",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we say the Guava serum fades melasma?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-03",
+        "research/insights-P475543#evidence-by-theme-2",
+        "product/P475543#overview"
+      ]
+    },
+    {
+      "id": "V20",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được nói serum Guava làm mờ nám không?",
+      "rank": 4,
+      "top3": [
+        "product/P475543#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V20",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc noi serum Guava lam mo nam khong?",
+      "rank": 4,
+      "top3": [
+        "product/P475543#overview",
+        "research/insights-P475543#evidence-by-theme-1",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V20",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "ghi serum oi tri nam dc ko",
+      "rank": 2,
+      "top3": [
+        "product/P504636#overview",
+        "brand/claims-policy#cp-03",
+        "research/insights-P504125#evidence-by-theme-1"
+      ]
+    },
+    {
+      "id": "V21",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we call our sunscreen a sunblock?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#prohibited-terms",
+        "brand/claims-policy#cp-05",
+        "compliance/fda-sunscreen-labeling#overview"
+      ]
+    },
+    {
+      "id": "V21",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được gọi kem chống nắng là sunblock không?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#prohibited-terms",
+        "brand/claims-policy#cp-05",
+        "product/P481989#overview"
+      ]
+    },
+    {
+      "id": "V21",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc goi kem chong nang la sunblock khong?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-05",
+        "compliance/fda-sunscreen-labeling#prohibited-terms",
+        "compliance/fda-sunscreen-labeling#relevance"
+      ]
+    },
+    {
+      "id": "V21",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "ghi sunblock dc ko",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-05",
+        "compliance/fda-sunscreen-labeling#prohibited-terms",
+        "brand/claims-policy#cp-04"
+      ]
+    },
+    {
+      "id": "V22",
+      "category": "compliance",
+      "variant": "en",
+      "query": "How often must sunscreen copy tell people to reapply?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#water-resistance",
+        "brand/claims-policy#cp-05",
+        "sop/ad-claim-review#self-check-checklist"
+      ]
+    },
+    {
+      "id": "V22",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Nội dung về kem chống nắng phải nhắc thoa lại sau bao lâu?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-05",
+        "product/P481989#overview",
+        "creative/learnings-2023#ct-04"
+      ]
+    },
+    {
+      "id": "V22",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Noi dung ve kem chong nang phai nhac thoa lai sau bao lau?",
+      "rank": 8,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "product/P481989#overview",
+        "compliance/fda-sunscreen-labeling#relevance"
+      ]
+    },
+    {
+      "id": "V22",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "kem chong nang phai ghi thoa lai bao lau",
+      "rank": 8,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "product/P481989#overview",
+        "sop/review-response#reply-templates"
+      ]
+    },
+    {
+      "id": "V23",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we use a customer review that says 'this cleared my acne' in an ad?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-07",
+        "compliance/ftc-health-claims#5-testimonials-and-endorsements",
+        "sop/review-response#principles"
+      ]
+    },
+    {
+      "id": "V23",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được dùng review 'hết sạch mụn' của khách trong quảng cáo không?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-07",
+        "sop/ad-claim-review#self-check-checklist",
+        "compliance/ftc-endorsement-guides#reviews"
+      ]
+    },
+    {
+      "id": "V23",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc dung review 'het sach mun' cua khach trong quang cao khong?",
+      "rank": 4,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/ad-claim-review#self-check-checklist",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V23",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "lay review het mun cua khach chay ads dc ko",
+      "rank": 3,
+      "top3": [
+        "brand/claims-policy#overview",
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "brand/claims-policy#cp-02"
+      ]
+    },
+    {
+      "id": "V24",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we say dermatologist recommended?",
+      "rank": 2,
+      "top3": [
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "brand/claims-policy#cp-06",
+        "sop/ad-claim-review#self-check-checklist"
+      ]
+    },
+    {
+      "id": "V24",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được ghi được bác sĩ da liễu khuyên dùng không?",
+      "rank": 2,
+      "top3": [
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "brand/claims-policy#cp-06",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V24",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc ghi duoc bac si da lieu khuyen dung khong?",
+      "rank": 7,
+      "top3": [
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V24",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "ghi bac si da lieu khuyen dung dc ko",
+      "rank": 5,
+      "top3": [
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "brand/claims-policy#overview",
+        "policy/returns#not-covered-by-the-policy-text"
+      ]
+    },
+    {
+      "id": "V25",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Is it fine to call it our best-selling serum?",
+      "rank": 5,
+      "top3": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "creative/learnings-2023#ct-09",
+        "research/insights-P475543#evidence-by-theme-1"
+      ]
+    },
+    {
+      "id": "V25",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được nói đây là serum bán chạy nhất không?",
+      "rank": null,
+      "top3": [
+        "research/insights-line-plum#evidence-by-theme-1",
+        "catalog/overview#strawberry-line",
+        "research/insights-P475543#evidence-by-theme-1"
+      ]
+    },
+    {
+      "id": "V25",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc noi day la serum ban chay nhat khong?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-04",
+        "creative/learnings-2023#ct-06",
+        "brand/voice-guide#vocabulary"
+      ]
+    },
+    {
+      "id": "V25",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "noi serum ban chay nhat dc ko",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-04",
+        "creative/learnings-2023#ct-06",
+        "brand/voice-guide#vocabulary"
+      ]
+    },
+    {
+      "id": "V26",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we say a fragranced product suits sensitive skin?",
+      "rank": 3,
+      "top3": [
+        "brand/voice-guide#talking-about-scent",
+        "research/insights-line-blueberry#evidence-by-theme-2",
+        "brand/claims-policy#cp-09"
+      ]
+    },
+    {
+      "id": "V26",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được nói sản phẩm có hương liệu phù hợp da nhạy cảm không?",
+      "rank": 8,
+      "top3": [
+        "research/insights-line-blueberry#evidence-by-theme-2",
+        "research/insights-P436359#evidence-by-theme-2",
+        "brand/claims-policy#cp-04"
+      ]
+    },
+    {
+      "id": "V26",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc noi san pham co huong lieu phu hop da nhay cam khong?",
+      "rank": null,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "research/insights-line-blueberry#evidence-by-theme-2",
+        "sop/ad-claim-review#self-check-checklist"
+      ]
+    },
+    {
+      "id": "V26",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "sp co mui ma ghi hop da nhay cam dc ko",
+      "rank": null,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "research/insights-line-blueberry#evidence-by-theme-2",
+        "research/insights-P436359#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V27",
+      "category": "compliance",
+      "variant": "en",
+      "query": "What AHA concentration and pH does FDA recommend?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-aha-labeling#other-recommendations",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i",
+        "compliance/fda-aha-labeling#recommended-label-statement-verbatim"
+      ]
+    },
+    {
+      "id": "V27",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "FDA khuyến nghị nồng độ AHA và độ pH bao nhiêu?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-aha-labeling#other-recommendations",
+        "brand/claims-policy#cp-04",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i"
+      ]
+    },
+    {
+      "id": "V27",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "FDA khuyen nghi nong do AHA va do pH bao nhieu?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-aha-labeling#other-recommendations",
+        "brand/claims-policy#cp-04",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i"
+      ]
+    },
+    {
+      "id": "V27",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "fda noi aha bao nhieu % ph bao nhieu",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-aha-labeling#other-recommendations",
+        "brand/claims-policy#cp-04",
+        "compliance/fda-aha-labeling#glow-recipe-products-containing-ahas-from-ingredient-lists-i"
+      ]
+    },
+    {
+      "id": "V28",
+      "category": "compliance",
+      "variant": "en",
+      "query": "What counts as a serious adverse event under MoCRA?",
+      "rank": 2,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#overview",
+        "compliance/fda-mocra-adverse-events#what-counts-as-serious",
+        "compliance/fda-mocra-adverse-events#reporting-duty"
+      ]
+    },
+    {
+      "id": "V28",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Theo MoCRA, thế nào là phản ứng phụ nghiêm trọng?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#what-counts-as-serious",
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base",
+        "compliance/fda-mocra-adverse-events#overview"
+      ]
+    },
+    {
+      "id": "V28",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Theo MoCRA, the nao la phan ung phu nghiem trong?",
+      "rank": 3,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#overview",
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base",
+        "compliance/fda-mocra-adverse-events#what-counts-as-serious"
+      ]
+    },
+    {
+      "id": "V28",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "the nao la phan ung nghiem trong theo mocra",
+      "rank": 2,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#overview",
+        "compliance/fda-mocra-adverse-events#what-counts-as-serious",
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base"
+      ]
+    },
+    {
+      "id": "V29",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Do influencers need to disclose in every post or just once?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-endorsement-guides#when-a-disclosure-is-required",
+        "brand/claims-policy#cp-10",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V29",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Influencer phải ghi chú quảng cáo ở mọi bài hay chỉ một lần?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-10",
+        "compliance/ftc-endorsement-guides#when-a-disclosure-is-required",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V29",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Influencer phai ghi chu quang cao o moi bai hay chi mot lan?",
+      "rank": 1,
+      "top3": [
+        "sop/influencer-brief#mandatory-brief-sections",
+        "brand/claims-policy#cp-10",
+        "compliance/ftc-endorsement-guides#when-a-disclosure-is-required"
+      ]
+    },
+    {
+      "id": "V29",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "kol co can ghi #ad moi bai ko",
+      "rank": 1,
+      "top3": [
+        "sop/influencer-brief#mandatory-brief-sections",
+        "brand/claims-policy#cp-10",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "id": "V30",
+      "category": "compliance",
+      "variant": "en",
+      "query": "Can we only ask happy customers to leave reviews?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "sop/review-response#principles",
+        "brand/claims-policy#cp-07"
+      ]
+    },
+    {
+      "id": "V30",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "Có được chỉ mời khách hài lòng để lại review không?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "brand/claims-policy#cp-07",
+        "research/insights-line-watermelon#evidence-by-theme"
+      ]
+    },
+    {
+      "id": "V30",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "Co duoc chi moi khach hai long de lai review khong?",
+      "rank": 9,
+      "top3": [
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "product/P501254#ingredients",
+        "product/P472468#ingredients"
+      ]
+    },
+    {
+      "id": "V30",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "chi xin review khach vui dc ko",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-endorsement-guides#reviews",
+        "research/insights-P482535#how-to-read-this",
+        "brand/claims-policy#cp-07"
+      ]
+    },
+    {
+      "id": "V31",
+      "category": "compliance",
+      "variant": "en",
+      "query": "What does net impression mean in the FTC guidance?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-health-claims#3-net-impression",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "compliance/ftc-health-claims#2-express-and-implied-claims-both-count"
+      ]
+    },
+    {
+      "id": "V31",
+      "category": "compliance",
+      "variant": "vi",
+      "query": "'Net impression' trong hướng dẫn FTC nghĩa là gì?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-health-claims#3-net-impression",
+        "brand/claims-policy#cp-07",
+        "creative/learnings-2023#how-to-read-this"
+      ]
+    },
+    {
+      "id": "V31",
+      "category": "compliance",
+      "variant": "vi_noacc",
+      "query": "'Net impression' trong huong dan FTC nghia la gi?",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-health-claims#3-net-impression",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "creative/learnings-2023#how-to-read-this"
+      ]
+    },
+    {
+      "id": "V31",
+      "category": "compliance",
+      "variant": "vi_chat",
+      "query": "net impression la gi",
+      "rank": 1,
+      "top3": [
+        "compliance/ftc-health-claims#3-net-impression",
+        "research/insights-P501760#how-to-read-this",
+        "creative/learnings-2023#how-to-read-this"
+      ]
+    },
+    {
+      "id": "V32",
+      "category": "sop",
+      "variant": "en",
+      "query": "Who approves claims that need regulatory review?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "sop/ad-claim-review#roles",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V32",
+      "category": "sop",
+      "variant": "vi",
+      "query": "Ai duyệt các claim cần Regulatory xem xét?",
+      "rank": 2,
+      "top3": [
+        "brand/claims-policy#overview",
+        "sop/ad-claim-review#steps",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V32",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "Ai duyet cac claim can Regulatory xem xet?",
+      "rank": 2,
+      "top3": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V32",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "ai duyet claim regulatory",
+      "rank": 3,
+      "top3": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "brand/claims-policy#overview",
+        "sop/ad-claim-review#steps"
+      ]
+    },
+    {
+      "id": "V33",
+      "category": "sop",
+      "variant": "en",
+      "query": "How many days before launch must paid social ads be approved?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#cp-10",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "id": "V33",
+      "category": "sop",
+      "variant": "vi",
+      "query": "Quảng cáo trả phí phải được duyệt trước ngày chạy bao lâu?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "compliance/ftc-endorsement-guides#brand-responsibilities",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V33",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "Quang cao tra phi phai duoc duyet truoc ngay chay bao lau?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "creative/learnings-2023#ct-03",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V33",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "ads phai duyet truoc may ngay",
+      "rank": 5,
+      "top3": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "brand/claims-policy#overview",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V34",
+      "category": "sop",
+      "variant": "en",
+      "query": "What do we do if a live ad breaks a BLOCK rule?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#overview",
+        "brand/claims-policy#cp-10"
+      ]
+    },
+    {
+      "id": "V34",
+      "category": "sop",
+      "variant": "vi",
+      "query": "Nếu quảng cáo đang chạy vi phạm luật BLOCK thì làm gì?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#overview",
+        "brand/claims-policy#cp-10"
+      ]
+    },
+    {
+      "id": "V34",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "Neu quang cao dang chay vi pham luat BLOCK thi lam gi?",
+      "rank": 1,
+      "top3": [
+        "sop/ad-claim-review#steps",
+        "brand/claims-policy#overview",
+        "brand/voice-guide#four-voice-pillars"
+      ]
+    },
+    {
+      "id": "V34",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "ads dang chay vi pham thi xu ly sao",
+      "rank": 5,
+      "top3": [
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "creative/learnings-2023#ct-06",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V35",
+      "category": "sop",
+      "variant": "en",
+      "query": "What information should care collect when a customer reports a reaction?",
+      "rank": 2,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base",
+        "sop/adverse-event-escalation#steps",
+        "sop/adverse-event-escalation#trigger"
+      ]
+    },
+    {
+      "id": "V35",
+      "category": "sop",
+      "variant": "vi",
+      "query": "CSKH cần thu thập thông tin gì khi khách báo bị phản ứng da?",
+      "rank": 5,
+      "top3": [
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base",
+        "sop/adverse-event-escalation#trigger",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V35",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "CSKH can thu thap thong tin gi khi khach bao bi phan ung da?",
+      "rank": 9,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "creative/learnings-2023#ct-06",
+        "sop/review-response#triage"
+      ]
+    },
+    {
+      "id": "V35",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "khach bao bi di ung thi cskh hoi nhung gi",
+      "rank": 8,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "research/insights-P482535#how-to-read-this",
+        "sop/review-response#triage"
+      ]
+    },
+    {
+      "id": "V36",
+      "category": "sop",
+      "variant": "en",
+      "query": "What must care never say to a customer who had a reaction?",
+      "rank": 4,
+      "top3": [
+        "sop/adverse-event-escalation#trigger",
+        "policy/returns#not-covered-by-the-policy-text",
+        "sop/adverse-event-escalation#steps"
+      ]
+    },
+    {
+      "id": "V36",
+      "category": "sop",
+      "variant": "vi",
+      "query": "CSKH tuyệt đối không được nói gì với khách bị phản ứng da?",
+      "rank": 7,
+      "top3": [
+        "sop/adverse-event-escalation#trigger",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "compliance/fda-mocra-adverse-events#relevance-to-this-knowledge-base"
+      ]
+    },
+    {
+      "id": "V36",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "CSKH tuyet doi khong duoc noi gi voi khach bi phan ung da?",
+      "rank": null,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "creative/learnings-2023#ct-03",
+        "creative/learnings-2023#ct-04"
+      ]
+    },
+    {
+      "id": "V36",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "cskh ko dc noi gi khi khach bi kich ung",
+      "rank": null,
+      "top3": [
+        "brand/claims-policy#cp-01",
+        "sop/adverse-event-escalation#trigger",
+        "sop/adverse-event-escalation#steps"
+      ]
+    },
+    {
+      "id": "V37",
+      "category": "sop",
+      "variant": "en",
+      "query": "How quickly must we respond to 1-star reviews?",
+      "rank": 1,
+      "top3": [
+        "sop/review-response#principles",
+        "research/insights-P475543#evidence-by-theme-2",
+        "sop/review-response#reply-templates"
+      ]
+    },
+    {
+      "id": "V37",
+      "category": "sop",
+      "variant": "vi",
+      "query": "Phải trả lời review 1 sao trong bao lâu?",
+      "rank": 1,
+      "top3": [
+        "sop/review-response#principles",
+        "research/insights-line-blueberry#themes",
+        "sop/review-response#reply-templates"
+      ]
+    },
+    {
+      "id": "V37",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "Phai tra loi review 1 sao trong bao lau?",
+      "rank": 8,
+      "top3": [
+        "research/insights-line-blueberry#themes",
+        "sop/ad-claim-review#steps",
+        "research/insights-P436359#themes"
+      ]
+    },
+    {
+      "id": "V37",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "rep review 1 sao trong bao lau",
+      "rank": null,
+      "top3": [
+        "research/insights-line-papaya#themes",
+        "research/insights-line-blueberry#themes",
+        "research/insights-P436359#themes"
+      ]
+    },
+    {
+      "id": "V38",
+      "category": "sop",
+      "variant": "en",
+      "query": "How long must a creator use the product before posting?",
+      "rank": 1,
+      "top3": [
+        "sop/influencer-brief#mandatory-brief-sections",
+        "sop/influencer-brief#steps",
+        "compliance/ftc-endorsement-guides#brand-responsibilities"
+      ]
+    },
+    {
+      "id": "V38",
+      "category": "sop",
+      "variant": "vi",
+      "query": "Creator phải dùng sản phẩm bao lâu trước khi đăng bài?",
+      "rank": 1,
+      "top3": [
+        "sop/influencer-brief#mandatory-brief-sections",
+        "sop/influencer-brief#steps",
+        "sop/influencer-brief#when-to-use"
+      ]
+    },
+    {
+      "id": "V38",
+      "category": "sop",
+      "variant": "vi_noacc",
+      "query": "Creator phai dung san pham bao lau truoc khi dang bai?",
+      "rank": 4,
+      "top3": [
+        "sop/influencer-brief#when-to-use",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "sop/influencer-brief#steps"
+      ]
+    },
+    {
+      "id": "V38",
+      "category": "sop",
+      "variant": "vi_chat",
+      "query": "koc xai bao lau moi dc dang",
+      "rank": null,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "creative/learnings-2023#ct-01",
+        "creative/learnings-2023#ct-02"
+      ]
+    },
+    {
+      "id": "V39",
+      "category": "policy",
+      "variant": "en",
+      "query": "Do you ship internationally?",
+      "rank": 2,
+      "top3": [
+        "brand/claims-policy#cp-11",
+        "policy/shipping#what-the-page-does-not-state",
+        "policy/shipping#what-the-page-states"
+      ]
+    },
+    {
+      "id": "V39",
+      "category": "policy",
+      "variant": "vi",
+      "query": "Có giao hàng quốc tế không?",
+      "rank": 1,
+      "top3": [
+        "policy/shipping#what-the-page-does-not-state",
+        "policy/shipping#what-the-page-states",
+        "creative/learnings-2023#ct-10"
+      ]
+    },
+    {
+      "id": "V39",
+      "category": "policy",
+      "variant": "vi_noacc",
+      "query": "Co giao hang quoc te khong?",
+      "rank": 1,
+      "top3": [
+        "policy/shipping#what-the-page-does-not-state",
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "creative/learnings-2023#ct-06"
+      ]
+    },
+    {
+      "id": "V39",
+      "category": "policy",
+      "variant": "vi_chat",
+      "query": "ship quoc te dc ko",
+      "rank": 3,
+      "top3": [
+        "brand/claims-policy#overview",
+        "policy/shipping#what-the-page-states",
+        "policy/shipping#what-the-page-does-not-state"
+      ]
+    },
+    {
+      "id": "V40",
+      "category": "policy",
+      "variant": "en",
+      "query": "Are the original shipping fees refunded?",
+      "rank": 1,
+      "top3": [
+        "policy/returns#key-terms",
+        "policy/shipping#what-the-page-does-not-state",
+        "policy/returns#exclusions"
+      ]
+    },
+    {
+      "id": "V40",
+      "category": "policy",
+      "variant": "vi",
+      "query": "Phí vận chuyển ban đầu có được hoàn lại không?",
+      "rank": 4,
+      "top3": [
+        "policy/shipping#what-the-page-does-not-state",
+        "policy/shipping#what-the-page-states",
+        "creative/learnings-2023#ct-04"
+      ]
+    },
+    {
+      "id": "V40",
+      "category": "policy",
+      "variant": "vi_noacc",
+      "query": "Phi van chuyen ban dau co duoc hoan lai khong?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-04",
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "policy/shipping#useful-for-copy"
+      ]
+    },
+    {
+      "id": "V40",
+      "category": "policy",
+      "variant": "vi_chat",
+      "query": "phi ship co dc hoan ko",
+      "rank": null,
+      "top3": [
+        "sop/ad-claim-review#self-check-checklist",
+        "policy/shipping#what-the-page-states",
+        "policy/shipping#what-the-page-does-not-state"
+      ]
+    },
+    {
+      "id": "V41",
+      "category": "policy",
+      "variant": "en",
+      "query": "Can a customer exchange a product?",
+      "rank": 1,
+      "top3": [
+        "policy/returns#not-covered-by-the-policy-text",
+        "policy/returns#exclusions",
+        "sop/adverse-event-escalation#do-not"
+      ]
+    },
+    {
+      "id": "V41",
+      "category": "policy",
+      "variant": "vi",
+      "query": "Khách có được đổi sản phẩm không?",
+      "rank": 1,
+      "top3": [
+        "policy/returns#not-covered-by-the-policy-text",
+        "research/insights-P501254#evidence-by-theme-2",
+        "research/insights-P501760#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V41",
+      "category": "policy",
+      "variant": "vi_noacc",
+      "query": "Khach co duoc doi san pham khong?",
+      "rank": null,
+      "top3": [
+        "sop/ad-claim-review#self-check-checklist",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V41",
+      "category": "policy",
+      "variant": "vi_chat",
+      "query": "doi sp dc ko",
+      "rank": null,
+      "top3": [
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01",
+        "sop/ad-claim-review#self-check-checklist",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V42",
+      "category": "creative",
+      "variant": "en",
+      "query": "What happened with the sunscreen layering tutorial ad?",
+      "rank": 1,
+      "top3": [
+        "creative/learnings-2023#ct-03",
+        "sop/review-response#reply-templates",
+        "research/insights-P481989#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V42",
+      "category": "creative",
+      "variant": "vi",
+      "query": "Quảng cáo hướng dẫn chống vón cho kem chống nắng cho kết quả gì?",
+      "rank": 2,
+      "top3": [
+        "brand/claims-policy#cp-05",
+        "creative/learnings-2023#ct-03",
+        "sop/ad-claim-review#self-check-checklist"
+      ]
+    },
+    {
+      "id": "V42",
+      "category": "creative",
+      "variant": "vi_noacc",
+      "query": "Quang cao huong dan chong von cho kem chong nang cho ket qua gi?",
+      "rank": 9,
+      "top3": [
+        "brand/voice-guide#four-voice-pillars",
+        "brand/claims-policy#cp-05",
+        "sop/influencer-brief#product-specific-notes-from-customer-research"
+      ]
+    },
+    {
+      "id": "V42",
+      "category": "creative",
+      "variant": "vi_chat",
+      "query": "ads huong dan ko bi von kcn ket qua sao",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "research/insights-P481989#evidence-by-theme-2",
+        "compliance/ftc-health-claims#5-testimonials-and-endorsements"
+      ]
+    },
+    {
+      "id": "V43",
+      "category": "creative",
+      "variant": "en",
+      "query": "Did UGC or studio creative perform better?",
+      "rank": 2,
+      "top3": [
+        "creative/learnings-2023#ct-01",
+        "creative/learnings-2023#cross-test-learnings",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "id": "V43",
+      "category": "creative",
+      "variant": "vi",
+      "query": "UGC hay ảnh studio hiệu quả hơn?",
+      "rank": 2,
+      "top3": [
+        "creative/learnings-2023#ct-01",
+        "creative/learnings-2023#cross-test-learnings",
+        "creative/brief-template#overview"
+      ]
+    },
+    {
+      "id": "V43",
+      "category": "creative",
+      "variant": "vi_noacc",
+      "query": "UGC hay anh studio hieu qua hon?",
+      "rank": 2,
+      "top3": [
+        "creative/learnings-2023#ct-01",
+        "creative/learnings-2023#cross-test-learnings",
+        "creative/brief-template#overview"
+      ]
+    },
+    {
+      "id": "V43",
+      "category": "creative",
+      "variant": "vi_chat",
+      "query": "ugc hay studio ngon hon",
+      "rank": 2,
+      "top3": [
+        "creative/learnings-2023#ct-01",
+        "creative/learnings-2023#cross-test-learnings",
+        "creative/brief-template#overview"
+      ]
+    },
+    {
+      "id": "V44",
+      "category": "creative",
+      "variant": "en",
+      "query": "What should we test next for the Guava serum?",
+      "rank": 1,
+      "top3": [
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V44",
+      "category": "creative",
+      "variant": "vi",
+      "query": "Nên test gì tiếp theo cho serum Guava?",
+      "rank": 1,
+      "top3": [
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "research/insights-P475543#evidence-by-theme-2",
+        "catalog/overview#guava-line"
+      ]
+    },
+    {
+      "id": "V44",
+      "category": "creative",
+      "variant": "vi_noacc",
+      "query": "Nen test gi tiep theo cho serum Guava?",
+      "rank": 1,
+      "top3": [
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "catalog/overview#guava-line",
+        "research/insights-P475543#evidence-by-theme-2"
+      ]
+    },
+    {
+      "id": "V44",
+      "category": "creative",
+      "variant": "vi_chat",
+      "query": "serum oi nen test gi tiep",
+      "rank": 5,
+      "top3": [
+        "creative/learnings-2023#ct-07",
+        "creative/learnings-2023#ct-06",
+        "creative/learnings-2023#ct-09"
+      ]
+    },
+    {
+      "id": "V45",
+      "category": "creative",
+      "variant": "en",
+      "query": "When does a test count as a winner?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-08",
+        "creative/learnings-2023#ct-02",
+        "creative/learnings-2023#cross-test-learnings"
+      ]
+    },
+    {
+      "id": "V45",
+      "category": "creative",
+      "variant": "vi",
+      "query": "Khi nào một bài test được coi là thắng?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-08",
+        "creative/learnings-2023#ct-02",
+        "creative/learnings-2023#ct-01"
+      ]
+    },
+    {
+      "id": "V45",
+      "category": "creative",
+      "variant": "vi_noacc",
+      "query": "Khi nao mot bai test duoc coi la thang?",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-02",
+        "creative/learnings-2023#recommended-next-tests-as-of-2023-04",
+        "creative/learnings-2023#ct-06"
+      ]
+    },
+    {
+      "id": "V45",
+      "category": "creative",
+      "variant": "vi_chat",
+      "query": "the nao la test thang",
+      "rank": null,
+      "top3": [
+        "creative/learnings-2023#ct-02",
+        "sop/ad-claim-review#self-check-checklist",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V46",
+      "category": "brand",
+      "variant": "en",
+      "query": "Which emojis are we allowed to use?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#emoji-palette",
+        "compliance/fda-sunscreen-labeling#prohibited-terms",
+        "brand/voice-guide#channel-formats"
+      ]
+    },
+    {
+      "id": "V46",
+      "category": "brand",
+      "variant": "vi",
+      "query": "Được dùng những emoji nào?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#emoji-palette",
+        "brand/voice-guide#four-voice-pillars",
+        "brand/voice-guide#channel-formats"
+      ]
+    },
+    {
+      "id": "V46",
+      "category": "brand",
+      "variant": "vi_noacc",
+      "query": "Duoc dung nhung emoji nao?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#emoji-palette",
+        "brand/voice-guide#four-voice-pillars",
+        "brand/voice-guide#channel-formats"
+      ]
+    },
+    {
+      "id": "V46",
+      "category": "brand",
+      "variant": "vi_chat",
+      "query": "dc xai emoji nao",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#emoji-palette",
+        "brand/voice-guide#four-voice-pillars",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "id": "V47",
+      "category": "brand",
+      "variant": "en",
+      "query": "How long should an email subject line be?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#channel-formats",
+        "sop/review-response#principles",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V47",
+      "category": "brand",
+      "variant": "vi",
+      "query": "Tiêu đề email nên dài bao nhiêu?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#channel-formats",
+        "policy/shipping#what-the-page-states",
+        "brand/claims-policy#overview"
+      ]
+    },
+    {
+      "id": "V47",
+      "category": "brand",
+      "variant": "vi_noacc",
+      "query": "Tieu de email nen dai bao nhieu?",
+      "rank": 10,
+      "top3": [
+        "brand/claims-policy#overview",
+        "policy/shipping#what-the-page-states",
+        "brand/voice-guide#four-voice-pillars"
+      ]
+    },
+    {
+      "id": "V47",
+      "category": "brand",
+      "variant": "vi_chat",
+      "query": "subject email dai bao nhieu",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#channel-formats",
+        "brand/claims-policy#overview",
+        "policy/shipping#what-the-page-states"
+      ]
+    },
+    {
+      "id": "V48",
+      "category": "brand",
+      "variant": "en",
+      "query": "Which words should we avoid in brand copy?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#vocabulary",
+        "sop/ad-claim-review#self-check-checklist",
+        "brand/voice-guide#examples"
+      ]
+    },
+    {
+      "id": "V48",
+      "category": "brand",
+      "variant": "vi",
+      "query": "Những từ nào nên tránh khi viết nội dung thương hiệu?",
+      "rank": 1,
+      "top3": [
+        "brand/voice-guide#vocabulary",
+        "sop/review-response#principles",
+        "brand/claims-policy#cp-09"
+      ]
+    },
+    {
+      "id": "V48",
+      "category": "brand",
+      "variant": "vi_noacc",
+      "query": "Nhung tu nao nen tranh khi viet noi dung thuong hieu?",
+      "rank": 4,
+      "top3": [
+        "creative/learnings-2023#open-questions-and-data-gaps",
+        "sop/review-response#principles",
+        "creative/brief-template#overview"
+      ]
+    },
+    {
+      "id": "V48",
+      "category": "brand",
+      "variant": "vi_chat",
+      "query": "tu nao ko nen dung khi viet content",
+      "rank": null,
+      "top3": [
+        "brand/claims-policy#cp-04",
+        "creative/brief-template#overview",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V49",
+      "category": "brand",
+      "variant": "en",
+      "query": "What is Glow Recipe's tagline?",
+      "rank": 1,
+      "top3": [
+        "brand/brand-overview#positioning",
+        "brand/brand-overview#public-commitments",
+        "research/insights-overview#overview"
+      ]
+    },
+    {
+      "id": "V49",
+      "category": "brand",
+      "variant": "vi",
+      "query": "Tagline của Glow Recipe là gì?",
+      "rank": 1,
+      "top3": [
+        "brand/brand-overview#positioning",
+        "brand/brand-overview#public-commitments",
+        "research/insights-overview#overview"
+      ]
+    },
+    {
+      "id": "V49",
+      "category": "brand",
+      "variant": "vi_noacc",
+      "query": "Tagline cua Glow Recipe la gi?",
+      "rank": 1,
+      "top3": [
+        "brand/brand-overview#positioning",
+        "brand/brand-overview#public-commitments",
+        "brand/brand-overview#product-lines-from-the-catalog-in-this-knowledge-base"
+      ]
+    },
+    {
+      "id": "V49",
+      "category": "brand",
+      "variant": "vi_chat",
+      "query": "slogan glow recipe la gi",
+      "rank": 1,
+      "top3": [
+        "brand/brand-overview#positioning",
+        "brand/brand-overview#public-commitments",
+        "brand/brand-overview#voice-signals-seen-publicly"
+      ]
+    },
+    {
+      "id": "V50",
+      "category": "brand",
+      "variant": "en",
+      "query": "What sections does a creative brief need?",
+      "rank": 1,
+      "top3": [
+        "creative/brief-template#overview",
+        "sop/influencer-brief#steps",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V50",
+      "category": "brand",
+      "variant": "vi",
+      "query": "Creative brief cần những phần nào?",
+      "rank": 1,
+      "top3": [
+        "creative/brief-template#overview",
+        "sop/influencer-brief#steps",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V50",
+      "category": "brand",
+      "variant": "vi_noacc",
+      "query": "Creative brief can nhung phan nao?",
+      "rank": 1,
+      "top3": [
+        "creative/brief-template#overview",
+        "sop/influencer-brief#steps",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V50",
+      "category": "brand",
+      "variant": "vi_chat",
+      "query": "brief can co nhung muc gi",
+      "rank": 1,
+      "top3": [
+        "creative/brief-template#overview",
+        "sop/influencer-brief#steps",
+        "sop/influencer-brief#mandatory-brief-sections"
+      ]
+    },
+    {
+      "id": "V51",
+      "category": "gap",
+      "variant": "en",
+      "query": "Is the sunscreen broad spectrum?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#relevance",
+        "compliance/fda-sunscreen-labeling#other-points",
+        "brand/claims-policy#cp-05"
+      ]
+    },
+    {
+      "id": "V51",
+      "category": "gap",
+      "variant": "vi",
+      "query": "Kem chống nắng có phổ rộng (broad spectrum) không?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#relevance",
+        "compliance/fda-sunscreen-labeling#other-points",
+        "brand/claims-policy#cp-05"
+      ]
+    },
+    {
+      "id": "V51",
+      "category": "gap",
+      "variant": "vi_noacc",
+      "query": "Kem chong nang co pho rong (broad spectrum) khong?",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#other-points",
+        "compliance/fda-sunscreen-labeling#relevance",
+        "sop/ad-claim-review#claims-register-status-as-of-2023-04-01"
+      ]
+    },
+    {
+      "id": "V51",
+      "category": "gap",
+      "variant": "vi_chat",
+      "query": "kcn co broad spectrum ko",
+      "rank": 1,
+      "top3": [
+        "compliance/fda-sunscreen-labeling#other-points",
+        "compliance/fda-sunscreen-labeling#relevance",
+        "brand/claims-policy#cp-05"
+      ]
+    },
+    {
+      "id": "V52",
+      "category": "gap",
+      "variant": "en",
+      "query": "Do we have clinical studies for any product?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-06",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "compliance/ftc-health-claims#1-every-objective-claim-needs-substantiation"
+      ]
+    },
+    {
+      "id": "V52",
+      "category": "gap",
+      "variant": "vi",
+      "query": "Có nghiên cứu lâm sàng nào cho sản phẩm không?",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-06",
+        "compliance/ftc-health-claims#practical-implications-knowledge-base-s-reading",
+        "creative/learnings-2023#open-questions-and-data-gaps"
+      ]
+    },
+    {
+      "id": "V52",
+      "category": "gap",
+      "variant": "vi_noacc",
+      "query": "Co nghien cuu lam sang nao cho san pham khong?",
+      "rank": 2,
+      "top3": [
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "brand/claims-policy#cp-06",
+        "brand/voice-guide#examples"
+      ]
+    },
+    {
+      "id": "V52",
+      "category": "gap",
+      "variant": "vi_chat",
+      "query": "co nghien cuu lam sang ko",
+      "rank": 1,
+      "top3": [
+        "brand/claims-policy#cp-06",
+        "sop/influencer-brief#product-specific-notes-from-customer-research",
+        "brand/voice-guide#examples"
+      ]
+    },
+    {
+      "id": "V53",
+      "category": "gap",
+      "variant": "en",
+      "query": "What do customers think of the Pink Dream body cream?",
+      "rank": 1,
+      "top3": [
+        "research/insights-overview#known-gaps",
+        "product/P469211#overview",
+        "product/P469211#ingredients"
+      ]
+    },
+    {
+      "id": "V53",
+      "category": "gap",
+      "variant": "vi",
+      "query": "Khách nghĩ gì về kem dưỡng thể Pink Dream?",
+      "rank": 1,
+      "top3": [
+        "research/insights-overview#known-gaps",
+        "product/P469211#overview",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V53",
+      "category": "gap",
+      "variant": "vi_noacc",
+      "query": "Khach nghi gi ve kem duong the Pink Dream?",
+      "rank": 1,
+      "top3": [
+        "research/insights-overview#known-gaps",
+        "product/P469211#overview",
+        "catalog/overview#products-by-type"
+      ]
+    },
+    {
+      "id": "V53",
+      "category": "gap",
+      "variant": "vi_chat",
+      "query": "kem body pink dream review sao",
+      "rank": 1,
+      "top3": [
+        "product/P469211#overview",
+        "product/P469211#ingredients",
+        "research/insights-overview#known-gaps"
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "RV01",
+      "variant": "en",
+      "query": "pilling under makeup",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV01",
+      "variant": "vi",
+      "query": "bị vón khi trang điểm",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P481989-22246"
+      ]
+    },
+    {
+      "id": "RV01",
+      "variant": "vi_noacc",
+      "query": "bi von khi trang diem",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P481989-22129"
+      ]
+    },
+    {
+      "id": "RV02",
+      "variant": "en",
+      "query": "leaves a white cast on darker skin",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV02",
+      "variant": "vi",
+      "query": "để lại vệt trắng trên da ngăm",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV02",
+      "variant": "vi_noacc",
+      "query": "de lai vet trang tren da ngam",
+      "n_hits": 5,
+      "precision@5": 0.6,
+      "violations": 0,
+      "irrelevant": [
+        "review/P481989-22084",
+        "review/P481989-22290"
+      ]
+    },
+    {
+      "id": "RV03",
+      "variant": "en",
+      "query": "it broke me out",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV03",
+      "variant": "vi",
+      "query": "dùng xong bị nổi mụn",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV03",
+      "variant": "vi_noacc",
+      "query": "dung xong bi noi mun",
+      "n_hits": 5,
+      "precision@5": 0.6,
+      "violations": 0,
+      "irrelevant": [
+        "review/P482535-23329",
+        "review/P482535-23216"
+      ]
+    },
+    {
+      "id": "RV04",
+      "variant": "en",
+      "query": "smells amazing",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV04",
+      "variant": "vi",
+      "query": "mùi thơm rất dễ chịu",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P428819-00618"
+      ]
+    },
+    {
+      "id": "RV04",
+      "variant": "vi_noacc",
+      "query": "mui thom rat de chiu",
+      "n_hits": 5,
+      "precision@5": 0.4,
+      "violations": 0,
+      "irrelevant": [
+        "review/P428819-01857",
+        "review/P428819-00251",
+        "review/P428819-00185"
+      ]
+    },
+    {
+      "id": "RV05",
+      "variant": "en",
+      "query": "feels too sticky",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV05",
+      "variant": "vi",
+      "query": "cảm giác dính nhớp",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV05",
+      "variant": "vi_noacc",
+      "query": "cam giac dinh nhop",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P466123-15848"
+      ]
+    },
+    {
+      "id": "RV06",
+      "variant": "en",
+      "query": "burning sensation on my face",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV06",
+      "variant": "vi",
+      "query": "bị rát, nóng mặt",
+      "n_hits": 5,
+      "precision@5": 0.6,
+      "violations": 0,
+      "irrelevant": [
+        "review/P436359-02644",
+        "review/P436359-02504"
+      ]
+    },
+    {
+      "id": "RV06",
+      "variant": "vi_noacc",
+      "query": "bi rat, nong mat",
+      "n_hits": 5,
+      "precision@5": 0.4,
+      "violations": 0,
+      "irrelevant": [
+        "review/P436359-02484",
+        "review/P436359-02634",
+        "review/P436359-02402"
+      ]
+    },
+    {
+      "id": "RV07",
+      "variant": "en",
+      "query": "very hydrating and plumping",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV07",
+      "variant": "vi",
+      "query": "cấp ẩm tốt, da căng mọng",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P479327-19795"
+      ]
+    },
+    {
+      "id": "RV07",
+      "variant": "vi_noacc",
+      "query": "cap am tot, da cang mong",
+      "n_hits": 5,
+      "precision@5": 0.6,
+      "violations": 0,
+      "irrelevant": [
+        "review/P479327-19795",
+        "review/P479327-21030"
+      ]
+    },
+    {
+      "id": "RV08",
+      "variant": "en",
+      "query": "removes makeup easily",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV08",
+      "variant": "vi",
+      "query": "tẩy trang sạch dễ dàng",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV08",
+      "variant": "vi_noacc",
+      "query": "tay trang sach de dang",
+      "n_hits": 5,
+      "precision@5": 0.4,
+      "violations": 0,
+      "irrelevant": [
+        "review/P460516-11803",
+        "review/P460516-12061",
+        "review/P460516-11507"
+      ]
+    },
+    {
+      "id": "RV09",
+      "variant": "en",
+      "query": "my dark spots faded",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV09",
+      "variant": "vi",
+      "query": "vết thâm mờ đi",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV09",
+      "variant": "vi_noacc",
+      "query": "vet tham mo di",
+      "n_hits": 5,
+      "precision@5": 0.2,
+      "violations": 0,
+      "irrelevant": [
+        "review/P475543-19295",
+        "review/P475543-19251",
+        "review/P475543-19309",
+        "review/P475543-19363"
+      ]
+    },
+    {
+      "id": "RV10",
+      "variant": "en",
+      "query": "reduced fine lines under my eyes",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV10",
+      "variant": "vi",
+      "query": "giảm nếp nhăn vùng mắt",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P447791-05886"
+      ]
+    },
+    {
+      "id": "RV10",
+      "variant": "vi_noacc",
+      "query": "giam nep nhan vung mat",
+      "n_hits": 5,
+      "precision@5": 0.2,
+      "violations": 0,
+      "irrelevant": [
+        "review/P447791-05886",
+        "review/P447791-05644",
+        "review/P447791-04744",
+        "review/P447791-06313"
+      ]
+    },
+    {
+      "id": "RV11",
+      "variant": "en",
+      "query": "my pores look smaller",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV11",
+      "variant": "vi",
+      "query": "lỗ chân lông nhỏ lại",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV11",
+      "variant": "vi_noacc",
+      "query": "lo chan long nho lai",
+      "n_hits": 5,
+      "precision@5": 0.2,
+      "violations": 0,
+      "irrelevant": [
+        "review/P458219-10036",
+        "review/P458219-08904",
+        "review/P458219-08559",
+        "review/P458219-09978"
+      ]
+    },
+    {
+      "id": "RV12",
+      "variant": "en",
+      "query": "calmed my redness",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV12",
+      "variant": "vi",
+      "query": "làm dịu da ửng đỏ",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV12",
+      "variant": "vi_noacc",
+      "query": "lam diu da ung do",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P470529-17453"
+      ]
+    },
+    {
+      "id": "RV13",
+      "variant": "en",
+      "query": "too expensive for such a small bottle",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P462699-13897"
+      ]
+    },
+    {
+      "id": "RV13",
+      "variant": "vi",
+      "query": "quá đắt so với dung tích",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV13",
+      "variant": "vi_noacc",
+      "query": "qua dat so voi dung tich",
+      "n_hits": 5,
+      "precision@5": 0.0,
+      "violations": 0,
+      "irrelevant": [
+        "review/P462699-14177",
+        "review/P462699-13857",
+        "review/P462699-14089",
+        "review/P462699-12925",
+        "review/P462699-12576"
+      ]
+    },
+    {
+      "id": "RV14",
+      "variant": "en",
+      "query": "great for my dry skin",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV14",
+      "variant": "vi",
+      "query": "rất hợp với da khô của tôi",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV14",
+      "variant": "vi_noacc",
+      "query": "rat hop voi da kho cua toi",
+      "n_hits": 5,
+      "precision@5": 0.8,
+      "violations": 0,
+      "irrelevant": [
+        "review/P466123-14315"
+      ]
+    },
+    {
+      "id": "RV15",
+      "variant": "en",
+      "query": "stings my eyes",
+      "n_hits": 5,
+      "precision@5": 1.0,
+      "violations": 0,
+      "irrelevant": []
+    },
+    {
+      "id": "RV15",
+      "variant": "vi",
+      "query": "bị cay mắt",
+      "n_hits": 5,
+      "precision@5": 0.4,
+      "violations": 0,
+      "irrelevant": [
+        "review/P501760-25000",
+        "review/P501760-24753",
+        "review/P501760-24901"
+      ]
+    },
+    {
+      "id": "RV15",
+      "variant": "vi_noacc",
+      "query": "bi cay mat",
+      "n_hits": 5,
+      "precision@5": 0.0,
+      "violations": 0,
+      "irrelevant": [
+        "review/P501760-24383",
+        "review/P501760-25002",
+        "review/P501760-24960",
+        "review/P501760-25018",
+        "review/P501760-24753"
+      ]
+    }
+  ],
+  "scope": [
+    {
+      "id": "N01",
+      "variant": "en",
+      "query": "How much is the Glow Lip Pop lip balm?",
+      "reason": "excluded product (lip balm)",
+      "cosine": 0.84699446,
+      "top": "catalog/overview#catalog-summary"
+    },
+    {
+      "id": "N01",
+      "variant": "vi",
+      "query": "Son dưỡng Glow Lip Pop giá bao nhiêu?",
+      "reason": "excluded product (lip balm)",
+      "cosine": 0.8203989,
+      "top": "catalog/overview#catalog-summary"
+    },
+    {
+      "id": "N02",
+      "variant": "en",
+      "query": "What is inside the Fruit Babies Bestsellers Kit?",
+      "reason": "excluded product (kit)",
+      "cosine": 0.8103471,
+      "top": "catalog/overview#catalog-summary"
+    },
+    {
+      "id": "N02",
+      "variant": "vi",
+      "query": "Bộ Fruit Babies Bestsellers Kit gồm những gì?",
+      "reason": "excluded product (kit)",
+      "cosine": 0.8008721,
+      "top": "catalog/overview#catalog-summary"
+    },
+    {
+      "id": "N03",
+      "variant": "en",
+      "query": "Who is the CEO of Sephora?",
+      "reason": "other company",
+      "cosine": 0.79132646,
+      "top": "brand/claims-policy#cp-09"
+    },
+    {
+      "id": "N03",
+      "variant": "vi",
+      "query": "CEO của Sephora là ai?",
+      "reason": "other company",
+      "cosine": 0.7580087,
+      "top": "brand/claims-policy#cp-09"
+    },
+    {
+      "id": "N04",
+      "variant": "en",
+      "query": "Do you sell a hair shampoo?",
+      "reason": "category not sold",
+      "cosine": 0.8006687,
+      "top": "sop/influencer-brief#product-specific-notes-from-customer-research"
+    },
+    {
+      "id": "N04",
+      "variant": "vi",
+      "query": "Có bán dầu gội đầu không?",
+      "reason": "category not sold",
+      "cosine": 0.76152605,
+      "top": "brand/claims-policy#cp-02"
+    },
+    {
+      "id": "N05",
+      "variant": "en",
+      "query": "What will the weather be like in Hanoi tomorrow?",
+      "reason": "off-topic",
+      "cosine": 0.7536484,
+      "top": "research/insights-P481989#evidence-by-theme-2"
+    },
+    {
+      "id": "N05",
+      "variant": "vi",
+      "query": "Thời tiết Hà Nội ngày mai thế nào?",
+      "reason": "off-topic",
+      "cosine": 0.7009249,
+      "top": "research/insights-P462699#evidence-by-theme-1"
+    },
+    {
+      "id": "N06",
+      "variant": "en",
+      "query": "How do I reset my account password?",
+      "reason": "off-topic (account support)",
+      "cosine": 0.79479235,
+      "top": "sop/adverse-event-escalation#customer-script"
+    },
+    {
+      "id": "N06",
+      "variant": "vi",
+      "query": "Làm sao để đổi mật khẩu tài khoản?",
+      "reason": "off-topic (account support)",
+      "cosine": 0.74606353,
+      "top": "creative/learnings-2023#ct-02"
+    },
+    {
+      "id": "N07",
+      "variant": "en",
+      "query": "What was revenue in Q3 2024?",
+      "reason": "data not in KB (financials)",
+      "cosine": 0.77961236,
+      "top": "creative/learnings-2023#open-questions-and-data-gaps"
+    },
+    {
+      "id": "N07",
+      "variant": "vi",
+      "query": "Doanh thu quý 3 năm 2024 là bao nhiêu?",
+      "reason": "data not in KB (financials)",
+      "cosine": 0.7551248,
+      "top": "creative/learnings-2023#open-questions-and-data-gaps"
+    },
+    {
+      "id": "N08",
+      "variant": "en",
+      "query": "Does Glow Recipe have physical stores in Vietnam?",
+      "reason": "data not in KB (retail)",
+      "cosine": 0.81698716,
+      "top": "brand/brand-overview#positioning"
+    },
+    {
+      "id": "N08",
+      "variant": "vi",
+      "query": "Glow Recipe có cửa hàng ở Việt Nam không?",
+      "reason": "data not in KB (retail)",
+      "cosine": 0.82114613,
+      "top": "brand/brand-overview#positioning"
+    },
+    {
+      "id": "N09",
+      "variant": "en",
+      "query": "Recommend a perfume for men",
+      "reason": "category not sold",
+      "cosine": 0.8083865,
+      "top": "brand/voice-guide#talking-about-scent"
+    },
+    {
+      "id": "N09",
+      "variant": "vi",
+      "query": "Gợi ý nước hoa cho nam",
+      "reason": "category not sold",
+      "cosine": 0.7976204,
+      "top": "research/insights-line-papaya#themes"
+    },
+    {
+      "id": "N10",
+      "variant": "en",
+      "query": "How much does the Rare Beauty liquid blush cost?",
+      "reason": "competitor product",
+      "cosine": 0.8181634,
+      "top": "policy/shipping#useful-for-copy"
+    },
+    {
+      "id": "N10",
+      "variant": "vi",
+      "query": "Má hồng Rare Beauty giá bao nhiêu?",
+      "reason": "competitor product",
+      "cosine": 0.77841055,
+      "top": "catalog/overview#products-by-price"
+    },
+    {
+      "id": "N11",
+      "variant": "en",
+      "query": "How many employees does the company have?",
+      "reason": "data not in KB (HR)",
+      "cosine": 0.75571096,
+      "top": "research/insights-P504125#how-to-read-this"
+    },
+    {
+      "id": "N11",
+      "variant": "vi",
+      "query": "Công ty có bao nhiêu nhân viên?",
+      "reason": "data not in KB (HR)",
+      "cosine": 0.7154466,
+      "top": "creative/learnings-2023#open-questions-and-data-gaps"
+    },
+    {
+      "id": "N12",
+      "variant": "en",
+      "query": "Write a Python function that sorts a list",
+      "reason": "off-topic (coding)",
+      "cosine": 0.78109217,
+      "top": "creative/learnings-2023#ct-08"
+    },
+    {
+      "id": "N12",
+      "variant": "vi",
+      "query": "Viết hàm Python sắp xếp một danh sách",
+      "reason": "off-topic (coding)",
+      "cosine": 0.75978965,
+      "top": "sop/ad-claim-review#ai-generated-copy"
+    }
+  ],
+  "scope_summary": {
+    "threshold": 0.76846725,
+    "accuracy": 0.8846153846153846,
+    "in_scope_kept": 1.0,
+    "out_scope_rejected": 0.375,
+    "in_scope": {
+      "min": 0.76846725,
+      "median": 0.838371235,
+      "max": 0.9085593
+    },
+    "out_scope": {
+      "min": 0.7009249,
+      "median": 0.786209315,
+      "max": 0.84699446
+    }
+  },
+  "scope_summary_rerank": null,
+  "setup": "hybrid (dense + BM25) + Vietnamese glossary + exact-ID lookup"
+}
